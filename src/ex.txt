@@ -1,0 +1,961 @@
+1===============layout_type:text, box:[164, 286, 760, 318], detections:[{'id': 0, 'text': '외부 검토 의견(SECOND PARTY OPINION', 'confidence': '', 'box': [164, 286, 760, 318], 'bbox_converted': (59.02810229816921, 102.94532497319567, 273.544864308589, 114.46368301215463)}], table:None, img:None1===============layout_type:title, box:[165, 461, 846, 508], detections:[{'id': 0, 'text': '우리은행 지속가능금융 프레임워크', 'confidence': '', 'box': [165, 461, 846, 508], 'bbox_converted': (59.38802975120683, 165.93634549875247, 304.4986252698241, 182.85393386847343)}], table:None, img:None1===============layout_type:text, box:[165, 588, 384, 621], detections:[{'id': 0, 'text': 'DNV 독립 검토', 'confidence': '', 'box': [165, 588, 384, 621], 'bbox_converted': (59.38802975120683, 211.64982896587082, 138.212141966445, 223.52813569354726)}], table:None, img:None1===============layout_type:title, box:[165, 588, 384, 621], detections:[{'id': 0, 'text': 'DNV 독립 검토', 'confidence': '', 'box': [165, 588, 384, 621], 'bbox_converted': (59.38802975120683, 211.64982896587082, 138.212141966445, 223.52813569354726)}], table:None, img:None1===============layout_type:title, box:[166, 693, 342, 727], detections:[{'id': 0, 'text': '범위 및 목적', 'confidence': '', 'box': [166, 693, 342, 727], 'bbox_converted': (59.74795720424444, 249.4444412812049, 123.09518893886506, 261.6826966975988)}], table:None, img:None1===============layout_type:text, box:[167, 693, 342, 727], detections:[{'id': 0, 'text': '범위 및 목적', 'confidence': '', 'box': [167, 693, 342, 727], 'bbox_converted': (60.107884657282064, 249.4444412812049, 123.09518893886506, 261.6826966975988)}], table:None, img:None1===============layout_type:unknown, box:[1226, 127, 1464, 148], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [1226, 127, 1464, 148], 'bbox_converted': (441.2710574241186, 45.71348346711836, 526.9337912470714, 53.27240593018517)}], table:None, img:None1===============layout_type:text, box:[164, 762, 1497, 1312], detections:[{'id': 0, 'text': '우리은행은 대한민국의 가장 큰 은행 시중은행 중 하나로 개인, 소상공인, 중소기업 및 대기업을 위한 소매ˑ기업ˑ투자 금융, 자산운용 및 \n신탁금융 상품ˑ서비스 등의 폭넓은 금융서비스를 제공하고 있습니다. 1899 년에 설립된 우리은행은 우리금융그룹의 자회사이며 국내 최대 \n규모의 네트워크를 보유하고 있는 시중은행 중 하나로서 619 개 지점과 89 개 사무소를 운영하고 있으며 이에 더해 24 개국에 걸쳐 \n465 개의 해외지점 및 현지사무소를 운영하며 국내 시중은행 중 가장 큰 글로벌 네트워크를 보유하고 있습니다. \n우리금융그룹의 전반적 ESG 경영 전략에 맞춰 우리은행은 지속가능성 촉진을 위한 금융 서비스를 제공하는 것에 전념하고 있으며 이에 \n대한 일환으로 2019 년부터 총 45 억 달러가 넘는 규모의 ESG 채권을 발행해왔습니다.  이와 같이 조달된 자금은 재생에너지, 친환경 \n건물, 사회적 기업 등에 대한 투자 및 저소득층을 위한 재원지원에 사용되었습니다.  우리은행은 당행의 ESG 자금 조달을 확대하기 위해 \n2023 년 9 월 지속가능금융 프레임워크(이하 “프레임워크”)를 업데이트하여 이를 기반으로 저탄소 교통수단 및 중소기업에 대한 금융지원 \n등을 포함한 신규 또는 기존 적격 환경∙사회적 사업∙프로젝트에 대한 자금 조달 또는 차환에 사용하기 위한 녹색, 사회적, 지속가능 채권 \n또는 대출(이하 “지속가능금융상품” 또는 “SFI”)을 발행할 계획입니다. \n(주)디엔브이비즈니스어슈어런스코리아(이하 “DNV”)1는 우리은행으로부터 본 프레임워크에 대한 검토와 함께, 국제자본시장협회 (이하 \n“ICMA”)에서 발행한 2021 녹색 채권 원칙 (이하 “GBP”)2, 2023 사회 채권 원칙 (이하 “SBP)3, 2021 지속가능채권 가이드라인 (이하 ', 'confidence': '', 'box': [164, 762, 1497, 1312], 'bbox_converted': (59.02810229816921, 274.28090080271016, 538.8113971973129, 472.2526795973172)}], table:None, img:None1===============layout_type:text, box:[220, 1250, 1432, 1410], detections:[{'id': 0, 'text': '디엔브이비즈니스어슈어런스코리아(이하 “DNV”)1는 우리은행으로부터 본 프레임워크에 대한 검토와 함께, 국제자본시장협회\nMA”)에서 발행한 2021 녹색 채권 원칙 (이하 “GBP”)2, 2023 사회 채권 원칙 (이하 “SBP)3, 2021 지속가능채권 가이드라인\nG”)4, 그리고 대출시장협회(이하 “LMA”)에서 발행한 2023 녹색 대출 원칙 (이하 “GLP”)5, 2023 사회 대출 원칙 (이하 “SL\n본 프레임워크의 부합 여부에 대한 외부 검토 의견서 제공을 의뢰 받았습니다.  ', 'confidence': '', 'box': [220, 1250, 1432, 1410], 'bbox_converted': (79.18403966827577, 449.93586089683424, 515.4161127498677, 507.527651091629)}], table:None, img:None1===============layout_type:text, box:[220, 1448, 1433, 1557], detections:[{'id': 0, 'text': '레임워크를 통해 발행된 금융 상품의 재무적 성과, 투자 가치 또는 금융 거래 환경 및 사회적 장기적 편익에 대한 보증은 제공\n니다. DNV 독립 검토의 목적은 우리은행의 프레임워크가 아래 명시된 항목에 따라 설정된 기준의 충족 여부를 평가하는 것입니', 'confidence': '', 'box': [220, 1448, 1433, 1557], 'bbox_converted': (79.18403966827577, 521.2057012628927, 515.7760402029054, 560.4401083330968)}], table:None, img:None1===============layout_type:title, box:[165, 1632, 529, 1665], detections:[{'id': 0, 'text': '우리은행 및 DNV 의 책임', 'confidence': '', 'box': [165, 1632, 529, 1665], 'bbox_converted': (59.38802975120683, 587.4362599869067, 190.40162265689946, 599.3145667145832)}], table:None, img:None1===============layout_type:text, box:[220, 1708, 1433, 1775], detections:[{'id': 0, 'text': '은행은 평가를 수행하는 동안 DNV 에서 활용한 정보 및 데이터를 제공했습니다. 당사의 성명(Statement)은 독립적 의견\n되어야 하며, 본 프레임워크가 GBP, SBP, SBG, GLP 그리고 SLP 와 일치하는지 여부에 대하여 우리은행 및 본 프레임워크와 관', 'confidence': '', 'box': [220, 1708, 1433, 1775], 'bbox_converted': (79.18403966827577, 614.7923603294342, 515.7760402029054, 638.9089224735046)}], table:None, img:None1===============layout_type:reference, box:[165, 1870, 1496, 2028], detections:[{'id': 0, 'text': '1 https://www.dnv.co.kr/ \n2 https://www.icmagroup.org/assets/documents/Sustainable-finance/2022-updates/Green-Bond-Principles_June-2022-280622.pdf \n3 https://www.icmagroup.org/assets/documents/Sustainable-finance/2023-updates/Social-Bond-Principles-SBP-June-2023-220623.pdf \n4 https://www.icmagroup.org/assets/GreenSocialSustainabilityDb/The-GBP-Guidance-Handbook-January-2022.pdf  \n5 https://www.lsta.org/content/green-loan-principles/  \n6 https://www.lsta.org/content/social-loan-principles-slp/ ', 'confidence': '', 'box': [165, 1870, 1496, 2028], 'bbox_converted': (59.38802975120683, 673.104047901664, 538.4514697442752, 729.9759407190238)}], table:None, img:None1===============layout_type:reference, box:[161, 2126, 1342, 2238], detections:[{'id': 0, 'text': '본 검토의견서는 영문 및 국문으로 작성되었으며, 영문 원본과 국문 번역본 사이에 차이가 있는 경우, 영문 원본 우선을 원칙으로 함. \nThis document has been written in English and Korean, but if there arises any conflict between the English original and Korean translation, the English version shall prevail over Korean trans\n \nDNV BUSINESS ASSURANCE KOREA Ltd  \n18F, Kyobo Bldg., 1, Jongno, Jongno-gu, Seoul, 03154, South Korea. Head Office DNV Business Assurance Group AS con Sede in Veritasveien 1, 1363 Høvik, 0219 Bærum, Norway. ', 'confidence': '', 'box': [161, 2126, 1342, 2238], 'bbox_converted': (57.94831993905636, 765.2509122133356, 483.0226419764822, 805.565165349692)}], table:None, img:None1===============layout_type:reference, box:[164, 2129, 1088, 2173], detections:[{'id': 0, 'text': '본 검토의견서는 영문 및 국문으로 작성되었으며, 영문 원본과 국문 번역본 사이에 차이가 있는 경우, 영문 원본 우선을 원칙으로 함. \nThis document has been written in English and Korean, but if there arises any conflict between the English original and Korean translation, the Englis', 'confidence': '', 'box': [164, 2129, 1088, 2173], 'bbox_converted': (59.02810229816921, 766.330758279488, 391.60106890492744, 782.1685005830566)}], table:None, img:None2===============layout_type:title, box:[333, 178, 477, 218], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [333, 178, 477, 218], 'bbox_converted': (119.85584186152651, 64.07086659170919, 171.6853950989434, 78.46881414040789)}], table:None, img:None2===============layout_type:unknown, box:[994, 192, 1445, 215], detections:[{'id': 0, 'text': '우리은행 지속가능금융 관리체계에 대한 SPO', 'confidence': '', 'box': [994, 192, 1445, 215], 'bbox_converted': (357.76788831939143, 69.11014823375373, 520.0951696393568, 77.38896807425549)}], table:None, img:None2===============layout_type:text, box:[164, 314, 1493, 474], detections:[{'id': 0, 'text': '기타 이해관계자들에게 필요한 정보를 제공하기 위해 작성되었습니다. DNV 는 우리은행이 당사에 제공한 정보 및 사실(Fact)에 기반하여\n본 평가를 수행하였습니다. DNV 는 본 의견서에서 언급된 지정 자산(Nominated Asset)의 어떠한 측면에 대해서도 책임을 지지 않으며,\n추정, 발견사항, 의견 또는 결론이 잘못된 경우에도 책임을 지지 않습니다. DNV 는 본 평가의 기초로 사용된 우리은행 제공 정보 또는\n데이터가 정확하지 않거나 완전하지 않은 경우에도 어떠한 책임도 가지지 않습니다. ', 'confidence': '', 'box': [164, 314, 1493, 474], 'bbox_converted': (59.02810229816921, 113.02388825728475, 537.3716873851624, 170.61567845207955)}], table:None, img:None2===============layout_type:title, box:[165, 565, 490, 599], detections:[{'id': 0, 'text': 'DNV 의견의 판단 기준', 'confidence': '', 'box': [165, 565, 490, 599], 'bbox_converted': (59.38802975120683, 203.37100912536906, 176.3644519884324, 215.60926454176297)}], table:None, img:None2===============layout_type:reference, box:[166, 633, 1498, 1348], detections:[{'id': 0, 'text': 'DNV 는 당사의 평가 방법론을 적용하여 우리은행의 지속가능금융 프레임워크 적격성 평가를 위한 별도의 프로토콜(이하 "프로토콜")을 \n수립하였습니다. DNV 의 프로토콜에는 당사의 의견을 뒷받침하는 근거로 활용될 수 있는 기준이 포함되어 있습니다. \nDNV 의 프로토콜에 따라, 본 프레임워크에 대해 검토된 기준은 아래 네 가지 원칙으로 분류됩니다: \n• \n원칙 1: 자금의 용도. 자금의 사용 기준은 채권 발행기관 또는 대출 차용자가 적격한 활동(eligible activities)에만 금융 지원을 \n제공하기 위한 기준을 제시해야 하는 요구사항의 적용을 받습니다. 적격 활동은 명확한 환경 및 사회적 혜택을 제공하는 \n활동이어야 합니다. \n• \n원칙 2: 프로젝트 평가 및 선정 프로세스. 프로젝트 평가 및 선정 기준은 채권 발행기관 및 대출 차용자가 녹색(Green), \n사회(Social) 및 지속가능성(Sustainability) 채권 또는 대출의 발행대금을 사용하여 투자 적격성을 결정하는 프로세스, 그리고 \n고려할 수 있는 영향(Impact) 관리 목표를 개략적으로 설명해야 하는 요구사항의 적용을 받습니다.  \n• \n원칙 3: 자금의 관리. 자금 관리 기준은 조직 내에서 채권 및 대출을 추적하고, 필요에 따라 별도의 포트폴리오를 구성해야 하며, \n미사용 자금을 처리하는 방법에 대한 관리 방안을 제시해야 한다는 요구사항의 적용을 받습니다.  \n• \n원칙 4: 사후 보고. 사후 보고 기준은 최소 연 1 회 자금의 사용 내역을 보고해야 하며, 가능한 경우 정량적 또는 정성적 성과 \n지표를 사용하여 보고해야 하는 권고사항의 적용을 받습니다. ', 'confidence': '', 'box': [166, 633, 1498, 1348], 'bbox_converted': (59.74795720424444, 227.84751995815685, 539.1713246503505, 485.210832391146)}], table:None, img:None2===============layout_type:text, box:[166, 639, 1497, 1347], detections:[{'id': 0, 'text': 'DNV 는 당사의 평가 방법론을 적용하여 우리은행의 지속가능금융 프레임워크 적격성 평가를 위한 별도의 프로토콜(이하 "프로토콜")을 \n수립하였습니다. DNV 의 프로토콜에는 당사의 의견을 뒷받침하는 근거로 활용될 수 있는 기준이 포함되어 있습니다. \nDNV 의 프로토콜에 따라, 본 프레임워크에 대해 검토된 기준은 아래 네 가지 원칙으로 분류됩니다: \n• \n원칙 1: 자금의 용도. 자금의 사용 기준은 채권 발행기관 또는 대출 차용자가 적격한 활동(eligible activities)에만 금융 지원을 \n제공하기 위한 기준을 제시해야 하는 요구사항의 적용을 받습니다. 적격 활동은 명확한 환경 및 사회적 혜택을 제공하는 \n활동이어야 합니다. \n• \n원칙 2: 프로젝트 평가 및 선정 프로세스. 프로젝트 평가 및 선정 기준은 채권 발행기관 및 대출 차용자가 녹색(Green), \n사회(Social) 및 지속가능성(Sustainability) 채권 또는 대출의 발행대금을 사용하여 투자 적격성을 결정하는 프로세스, 그리고 \n고려할 수 있는 영향(Impact) 관리 목표를 개략적으로 설명해야 하는 요구사항의 적용을 받습니다.  \n• \n원칙 3: 자금의 관리. 자금 관리 기준은 조직 내에서 채권 및 대출을 추적하고, 필요에 따라 별도의 포트폴리오를 구성해야 하며, \n미사용 자금을 처리하는 방법에 대한 관리 방안을 제시해야 한다는 요구사항의 적용을 받습니다.  \n• \n원칙 4: 사후 보고. 사후 보고 기준은 최소 연 1 회 자금의 사용 내역을 보고해야 하며, 가능한 경우 정량적 또는 정성적 성과 \n지표를 사용하여 보고해야 하는 권고사항의 적용을 받습니다. ', 'confidence': '', 'box': [166, 639, 1497, 1347], 'bbox_converted': (59.74795720424444, 230.00721209046165, 538.8113971973129, 484.8508837024286)}], table:None, img:None2===============layout_type:title, box:[165, 1444, 301, 1478], detections:[{'id': 0, 'text': '평가 활동', 'confidence': '', 'box': [165, 1444, 301, 1478], 'bbox_converted': (59.38802975120683, 519.7659065080229, 108.33816336432275, 532.0041619244167)}], table:None, img:None2===============layout_type:text, box:[173, 1515, 1492, 1970], detections:[{'id': 0, 'text': 'DNV 는 우리은행이 제공한 모든 정보가 선의(good faith)를 기반으로 제공되었다는 이해를 전제로, 사용 가능한 모든 정보에 대해 높은\n수준의 검토를 실시하였습니다. DNV 는 당사에 제공된 정보의 정확성을 확인하기 위해 별도의 감사 또는 테스트를 수행하지 않았습니다.\n평가 의견을 도출하기 위해 하기의 활동을 실시하였습니다:  \n• \nDNV 의견의 판단 기준 및 부록 3 에 명시된 대로 본 프레임워크의 평가 목적에 맞도록 작성된 프로토콜 수립 \n• \n우리은행이 제공한 프레임워크 관련 문건 평가 (높은 수준의 desktop 연구 포함). 본 검토 작업 시 최근 모범 사례, 표준 방법론\n등을 참조하였음 \n• \n우리은행이 발행한 자료 및 웹사이트에 대한 리뷰 \n• \n우리은행과의 협의, 프로토콜 기준과 관련된 문서 및 근거 자료에 대한 리뷰 \n• \n평가 기준의 각 항목에 대한 발견사항 문서화. 아래에서 제시된 당사의 의견은 이러한 발견사항에 대한 요약 정보임 ', 'confidence': '', 'box': [173, 1515, 1492, 1970], 'bbox_converted': (62.267449375507766, 545.3222634069631, 537.0117599321247, 709.0989167734108)}], table:None, img:None2===============layout_type:footer, box:[1383, 2219, 1488, 2238], detections:[{'id': 0, 'text': '2 | P a g e', 'confidence': '', 'box': [1383, 2219, 1488, 2238], 'bbox_converted': (497.7796675510245, 798.7261402640601, 535.5720501199743, 805.565165349692)}], table:None, img:None3===============layout_type:title, box:[333, 178, 477, 219], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [333, 178, 477, 219], 'bbox_converted': (119.85584186152651, 64.07086659170919, 171.6853950989434, 78.82876282912535)}], table:None, img:None3===============layout_type:unknown, box:[331, 180, 477, 218], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [331, 180, 477, 218], 'bbox_converted': (119.13598695545127, 64.79076396914412, 171.6853950989434, 78.46881414040789)}], table:None, img:None3===============layout_type:title, box:[166, 318, 561, 351], detections:[{'id': 0, 'text': '발견사항 및 DNV 검토 의견', 'confidence': '', 'box': [166, 318, 561, 351], 'bbox_converted': (59.74795720424444, 114.46368301215463, 201.9193011541032, 126.34198973983105)}], table:None, img:None3===============layout_type:text, box:[172, 416, 538, 441], detections:[{'id': 0, 'text': 'DNV 의 발견사항은 아래와 같습니다: ', 'confidence': '', 'box': [172, 416, 538, 441], 'bbox_converted': (61.907521922470146, 149.73865450646642, 193.640969734238, 158.73737172440312)}], table:None, img:None3===============layout_type:title, box:[167, 483, 410, 507], detections:[{'id': 0, 'text': '1. \n원칙 1: 자금의 용도', 'confidence': '', 'box': [167, 483, 410, 507], 'bbox_converted': (60.107884657282064, 173.85521665053673, 147.57025574542303, 182.49398517975595)}], table:None, img:None3===============layout_type:unknown, box:[994, 192, 1445, 215], detections:[{'id': 0, 'text': '우리은행 지속가능금융 관리체계에 대한 SPO', 'confidence': '', 'box': [994, 192, 1445, 215], 'bbox_converted': (357.76788831939143, 69.11014823375373, 520.0951696393568, 77.38896807425549)}], table:None, img:None3===============layout_type:text, box:[220, 534, 1433, 637], detections:[{'id': 0, 'text': '우리은행은 본 프레임워크에 따라 발행된 채무증서(debt instruments)의 발행대금을 신규 또는 기존 적격 녹색 및 사회 프로\n범주의 전체 또는 일부에 대한 자금 조달 및 차환에 사용하고자 합니다. 본 프레임워크에서는 적격 프로젝트 범주를 아래와\n정의하고 있습니다.   ', 'confidence': '', 'box': [220, 534, 1433, 637], 'bbox_converted': (79.18403966827577, 192.2125997751276, 515.7760402029054, 229.28731471302672)}], table:None, img:None3===============layout_type:text, box:[215, 916, 1375, 1435], detections:[{'id': 0, 'text': 'Resources and Land Use) \n• \n저탄소 교통수단 (Low Carbon Transportation) \n• \n지속가능한 수질 및 폐수 관리 (Sustainable Water and Wastewater Management) \n• \n친환경 건물 (Green Buildings) \n• \n기후변화 적응 (Climate Change Adaptation) \n적격 사회 프로젝트 범주 (Eligible Social Project Categories) \n• \n고용 창출, 중소기업금융 및 미소금융 (Employment Generation, SME Financing and Microfinance) \n• \n사회적기업금융 (Social Enterprise Financing) \n• \n서민 주거안정을 위한 주택금융 (Affordable Housing) \n• \n필수 사회서비스에 대한 접근성 (Access to Essential Services) \n• \n사회기반시설에 대한 인프라 (Affordable Basic Infrastructure) ', 'confidence': '', 'box': [215, 916, 1375, 1435], 'bbox_converted': (77.38440240308769, 329.7129988652001, 494.9002479267236, 516.5263683095657)}], table:None, img:None3===============layout_type:text, box:[222, 1173, 1346, 1434], detections:[{'id': 0, 'text': '적격 사회 프로젝트 범주 (Eligible Social Project Categories) \n• \n고용 창출, 중소기업금융 및 미소금융 (Employment Generation, SME Financing and Microfinance\n• \n사회적기업금융 (Social Enterprise Financing) \n• \n서민 주거안정을 위한 주택금융 (Affordable Housing) \n• \n필수 사회서비스에 대한 접근성 (Access to Essential Services) \n• \n사회기반시설에 대한 인프라 (Affordable Basic Infrastructure) ', 'confidence': '', 'box': [222, 1173, 1346, 1434], 'bbox_converted': (79.903894574351, 422.21981186558924, 484.46235178863265, 516.1664196208483)}], table:None, img:None3===============layout_type:text, box:[211, 1501, 1493, 1770], detections:[{'id': 0, 'text': 'DNV는 GBP, SBP, SBG, GLP 및 SLP에 따라 관련 프로젝트들이 "친환경" 및 "사회적으로 유익한" 프로젝트로서 적격한지 여부를\n검토하기 위해 프로젝트 분석을 실시했습니다. 우리은행은 적격 녹색 및 사회 프로젝트 범주와 UN 지속가능 개발 목표 (이하\n“SDGs”)에 대한 대조표를 수립했고, 적격성 여부를 결정하기 위한 각 프로젝트 유형 및 선정 기준이 본 프레임워크에 기술되어\n있습니다. 또한 우리은행은 프레임워크에 프로젝트 배제기준을 제시했습니다.  또한, 차환의 경우 우리은행은 SFI 발행일을 기준으로\n36개월(look-back period) 이내에 취급된 기존 적격 프로젝트에 대해서만 적용 가능한 용처로 간주할 것을 명시하였습니다. \nDNV는 본 프레임워크에 기재된 적격성 범주가 2021 GBP, 2023 SBP, 2021 SBG, 2023 GLP 및 2023 SLP 에 명시된 범주와\n일치한다는 의견입니다.  ', 'confidence': '', 'box': [211, 1501, 1493, 1770], 'bbox_converted': (75.94469259093722, 540.2829817649185, 537.3716873851624, 637.1091790299173)}], table:None, img:None3===============layout_type:title, box:[165, 1817, 608, 1841], detections:[{'id': 0, 'text': '2. \n원칙 2: 프로젝트 평가 및 선정 프로세스 ', 'confidence': '', 'box': [165, 1817, 608, 1841], 'bbox_converted': (59.38802975120683, 654.0267673996382, 218.83589144687122, 662.6655359288575)}], table:None, img:None3===============layout_type:text, box:[210, 1864, 1495, 2057], detections:[{'id': 0, 'text': '잠재적인 적격 사업은 먼저 우리은행의 사업부가 파악하고 제안하며 사업부는 본 사업들이 우리은행의 통상적인 대출 취급 기준의\n만족 여부를 확인합니다. 이후 녹색·사회적·지속가능 파이낸싱 실무그룹(GSSFWG)에서 사업부로부터 제출된 잠재적 적격 사업을\n본 프레임워크에 제시된 녹색 및 사회 프로젝트 적격기준에 기반하여 평가한 후 최종 승인합니다. GSSFWG는 ESG기획부, 자금부,\n상생금융부, 주택기금부, 기업고객부, 기업금융솔루션부, 글로벌영업추진부, CIB사업부 대표로 구성됩니다. \nDNV는 우리은행의 프레임워크가 프로젝트 평가 및 선정 프로세스를 적절히 설명하고 있다고 판단합니다. ', 'confidence': '', 'box': [210, 1864, 1495, 2057], 'bbox_converted': (75.5847651378996, 670.9443557693592, 538.0915422912376, 740.4144526918304)}], table:None, img:None3===============layout_type:footer, box:[1383, 2219, 1488, 2238], detections:[{'id': 0, 'text': '3 | P a g e', 'confidence': '', 'box': [1383, 2219, 1488, 2238], 'bbox_converted': (497.7796675510245, 798.7261402640601, 535.5720501199743, 805.565165349692)}], table:None, img:None4===============layout_type:title, box:[333, 179, 477, 218], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [333, 179, 477, 218], 'bbox_converted': (119.85584186152651, 64.43081528042666, 171.6853950989434, 78.46881414040789)}], table:None, img:None4===============layout_type:title, box:[164, 310, 410, 336], detections:[{'id': 0, 'text': '3. \n원칙 3: 자금의 관리', 'confidence': '', 'box': [164, 310, 410, 336], 'bbox_converted': (59.02810229816921, 111.58409350241489, 147.57025574542303, 120.94275940906904)}], table:None, img:None4===============layout_type:unknown, box:[994, 192, 1445, 215], detections:[{'id': 0, 'text': '우리은행 지속가능금융 관리체계에 대한 SPO', 'confidence': '', 'box': [994, 192, 1445, 215], 'bbox_converted': (357.76788831939143, 69.11014823375373, 520.0951696393568, 77.38896807425549)}], table:None, img:None4===============layout_type:text, box:[185, 360, 1496, 510], detections:[{'id': 0, 'text': '우리은행은 지속가능금융상품(SFI) 자금 관리를 위해 지속가능금융상품 기록부(Sustainable Financing Register)를 만들\n것입니다. 각각의 SFI 발행대금은 일반회계 계좌에 보관되고 기록부에 기록되어 적격 프로젝트에 배정될(earmarked) 것입니다.\n기록부에는 적격 프로젝트의 요약, 할당된 대금 및 아직 할당되지 않은 미사용 대금 등의 내용이 기록될 것입니다. \nDNV는 제시된 근거자료를 검토하였으며 향후 발행대금이 적절하게 관리될 것임을 확인할 수 있었습니다.  ', 'confidence': '', 'box': [185, 360, 1496, 510], 'bbox_converted': (66.58657881195917, 129.58152793828825, 538.4514697442752, 183.57383124590837)}], table:None, img:None4===============layout_type:title, box:[164, 558, 388, 582], detections:[{'id': 0, 'text': '4. \n원칙 4: 사후 보고', 'confidence': '', 'box': [164, 558, 388, 582], 'bbox_converted': (59.02810229816921, 200.8513683043468, 139.65185177859544, 209.49013683356603)}], table:None, img:None4===============layout_type:text, box:[192, 609, 1495, 930], detections:[{'id': 0, 'text': '우리은행은 연 1회 (해당 SFI 만기시 까지) 자금 사용 내역 및 효과에 대한 결과를 수록한 자금 조달 영향 보고서(Impact\nReporting)를 당사 홈페이지에 게재할 예정이며 보고서에는 다음 내용이 포함될 예정입니다. \n• \n각각의 지속가능금융상품(SFI) 대금 사용이 본 프레임워크에 부합함을 확인 \n• \n할당된 자금 총액 및 각 적격 카테고리별 세부내역 \n• \n미사용 발행대금 잔액 \n• \n신규 파이낸싱 및 리파이낸싱 비중 \nDNV는 우리은행이 제시한 자금 조달 영향 보고서의 내용이 관련 원리들과 부합하다는 의견입니다. ', 'confidence': '', 'box': [192, 609, 1495, 930], 'bbox_converted': (69.1060709832225, 219.20875142893763, 538.0915422912376, 334.7522805072447)}], table:None, img:None4===============layout_type:text, box:[164, 997, 1483, 1119], detections:[{'id': 0, 'text': '우리은행에서 제공한 정보 및 DNV 가 수행한 작업을 기반으로 우리은행의 지속가능 금융 프레임워크가 프로토콜에서 제시된 기준을 \n충족하며, GBP, SBP, SBG, GLP 및 SLP 기준과 일치한다 것이 DNV 의견입니다. 부록4 지속가능금융 프레임워크 외부 검토 양식을\n참고하시기 바랍니다. ', 'confidence': '', 'box': [164, 997, 1483, 1119], 'bbox_converted': (59.02810229816921, 358.868842651315, 533.7724128547862, 402.782582674846)}], table:None, img:None4===============layout_type:text, box:[164, 1205, 571, 1275], detections:[{'id': 0, 'text': 'DNV Business Assurance Korea Ltd.\n대한민국 서울 / 2023년 9월 4일 ', 'confidence': '', 'box': [164, 1205, 571, 1275], 'bbox_converted': (59.02810229816921, 433.7381699045482, 205.51857568447937, 458.9345781147709)}], table:None, img:None4===============layout_type:text, box:[160, 1412, 1308, 1597], detections:[{'id': 0, 'text': '김재희                                        윤창록 \n위원 Senior Auditor                    위원 Senior Auditor \n \nThomas Leonard \n기술검토자 Technical Reviewer ', 'confidence': '', 'box': [160, 1412, 1308, 1597], 'bbox_converted': (57.58839248601874, 508.24754846906393, 470.7851085732032, 574.8380558817954)}], table:None, img:None4===============layout_type:text, box:[165, 1415, 747, 1596], detections:[{'id': 0, 'text': '김재희                                        윤창록 \n위원 Senior Auditor                    위원 Senior Auditor ', 'confidence': '', 'box': [165, 1415, 747, 1596], 'bbox_converted': (59.38802975120683, 509.32739453521634, 268.8658074191, 574.4781071930779)}], table:None, img:None4===============layout_type:text, box:[166, 1650, 523, 1713], detections:[{'id': 0, 'text': '프로젝트 팀 Project Team \nDNV Business Assurance Korea', 'confidence': '', 'box': [166, 1650, 523, 1713], 'bbox_converted': (59.74795720424444, 593.9153363838212, 188.24205793867375, 616.5921037730217)}], table:None, img:None4===============layout_type:text, box:[966, 1534, 1300, 1596], detections:[{'id': 0, 'text': 'Thomas Leonard \n기술검토자 Technical Reviewer', 'confidence': '', 'box': [966, 1534, 1300, 1596], 'bbox_converted': (347.68991963433814, 552.161288492595, 467.9056889489023, 574.4781071930779)}], table:None, img:None4===============layout_type:text, box:[965, 1662, 1353, 1726], detections:[{'id': 0, 'text': '부장 Head of Section \nSustainability Services, DNV SCPA', 'confidence': '', 'box': [965, 1662, 1353, 1726], 'bbox_converted': (347.32999218130055, 598.2347206484308, 486.98184395989597, 621.2714367263487)}], table:None, img:None4===============layout_type:reference, box:[163, 1932, 1498, 2091], detections:[{'id': 0, 'text': 'About DNV \n생명, 재산 및 환경 보호를 목적으로 DNV 는 조직이 비즈니스의 안전과 지속가능성을 발전시킬 수 있도록 지원합니다. 선도적인 기술 및 전문성, 리스크 \n방법론 및 심층적인 산업 지식을 결합하여 고객의 의사결정과 활동에 신뢰와 확신을 더합니다. DNV 는 기술적, 운영적 통찰력을 바탕으로 고객과 사회에 \n기여하기 위해 연구개발 및 협력적 혁신에 지속적으로 투자하고 있습니다. DNV 는 1864 년 설립되어 현재는 전세계에서 서비스를 제공하고 있습니다. \n100 개 이상의 국가, 16,000 명의 전문가는 고객이 더 안전하고 스마트하며 친환경적인 세상을 만들 수 있도록 최선을 다하고 있습니다. ', 'confidence': '', 'box': [163, 1932, 1498, 2091], 'bbox_converted': (58.668174845131595, 695.4208666021469, 539.1713246503505, 752.6527081082243)}], table:None, img:None4===============layout_type:footer, box:[1384, 2219, 1486, 2238], detections:[{'id': 0, 'text': '4 | P a g e', 'confidence': '', 'box': [1384, 2219, 1486, 2238], 'bbox_converted': (498.13959500406213, 798.7261402640601, 534.8521952138991, 805.565165349692)}], table:None, img:None5===============layout_type:title, box:[333, 161, 478, 199], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [333, 161, 478, 199], 'bbox_converted': (119.85584186152651, 57.95173888351225, 172.045322551981, 71.62978905477601)}], table:None, img:None5===============layout_type:unknown, box:[1024, 182, 1464, 210], detections:[{'id': 0, 'text': '리은행 지속가능금융 프레임워크에 대한 SPO', 'confidence': '', 'box': [1024, 182, 1464, 210], 'bbox_converted': (368.56571191051995, 65.51066134657907, 526.9337912470714, 75.58922463066816)}], table:None, img:None5===============layout_type:text, box:[165, 307, 1346, 341], detections:[{'id': 0, 'text': '부록 1: 우리은행 지속가능금융상품(SFI)를 통한 투자 또는 차환 대상의 범주에 관한', 'confidence': '', 'box': [165, 307, 1346, 341], 'bbox_converted': (59.38802975120683, 110.50424743626249, 484.46235178863265, 122.74250285265637)}], table:None, img:None5===============layout_type:table, box:[170, 443, 1484, 1834], detections:[{'id': 0, 'text': '\x0c', 'confidence': '', 'box': [170, 443, 1484, 1834], 'bbox_converted': (61.18766701639491, 159.45726910183805, 534.1323403078238, 660.1458951078351)}], table:None, img:None5===============layout_type:text, box:[196, 466, 915, 1539], detections:[{'id': 0, 'text': '재생에너지 \n재생에너지 사업의 구축, 유지보수 및 운영: \n• 육상 및 해상 태양광 발전(집광형 태양열 발전\n태양광 발전 모두 포함), 육상 및 해상 풍력발전\n• 바이오매스 에너지(수명주기 온실가스 배출량\n100g CO2e/kWh 미만인 냉난방 및 전력용 \n바이오매스, 바이오가스, 바이오액체연료가 \n사용되어야 하며, 이때 바이오매스 원료가 \n지속가능한 원료여야 함)8 \n• 해양에너지(해양 열에너지, 조력 발전)9 \n• 수력 발전(인공 저수지가 없는 수로식 혹은 \n자연유하식 발전소이거나 발전 시설의 전력 \n밀도가 5W/m2 를 초과하거나 수명주기 \n온실가스 배출량이 100g CO2e/kWh 미만) \n• 지열 에너지(수명주기 온실가스 배출량 100g\nCO2e/kWh 미만) \n풍력터빈, 태양광 패널 등 재생에너지 부품·소재 \n생산 혹은 수입 \n에너지 효율 \n베이스라인 또는 시장 평균 대비 30% 이상의 \n에너지 효율 개선을 달성하는 개발 사업, 제조업,\n인프라 구축, 장비, 기술 등: \n• 수소연료전지 기술 \n• 건물 및 가정 에너지 관리: 조명, 공조장치, 폐\n회수, 지역냉방 등 개선 \n• 열 펌프, 열 교환기 등 공장 내 폐열을 기타 \n산업에 유용한 에너지로 재활용할 수 있는 폐열\n회수 기술 ', 'confidence': '', 'box': [196, 466, 915, 1539], 'bbox_converted': (70.54578079537296, 167.7360889423398, 329.3336195294197, 553.9610319361823)}], table:None, img:None5===============layout_type:table, box:[980, 458, 1476, 1868], detections:[{'id': 0, 'text': '\x0c', 'confidence': '', 'box': [980, 458, 1476, 1868], 'bbox_converted': (352.7289039768648, 164.85649943260006, 531.2529206835229, 672.3841505242291)}], table:None, img:None5===============layout_type:reference, box:[164, 1952, 1483, 2155], detections:[{'id': 0, 'text': '7 해상 태양광·풍력 발전단지의 경우 화석연료 기반 백업 전원은 정전 발생 시 재가동, 모니터링, 운영 및 복구에 한하여 사용되어야 한다. \n8 목재 펠릿, 우드칩 등 바이오매스 원료의 경우, 우리은행은 필요시 FSC 인증을 받은 지속가능한 연료만 사용한다. FSC 인증이 요구되지 않는 경우, 생물자원에서\n유래하거나 잠재적인 식량 공급원이거나 탄소 저장고를 고갈시키는 바이오매스 원료는 제외된다. \n9 해상 태양광·풍력 발전단지의 경우 화석연료 기반 백업 전원은 정전 발생 시 재가동, 모니터링, 운영 및 복구에 한하여 사용되어야 한다. \n10 Electricity generation from fossil gaseous fuels (https://ec.europa.eu/sustainable-finance-taxonomy/activities/activity/191/view) or \nmanufacture of hydrogen (https://ec.europa.eu/sustainable-finance-taxonomy/activities/activity/155/view) \n13 https://climate.ec.europa.eu/eu-action/fluorinated-greenhouse-gases/climate-friendly-alternatives-hfcs_en ', 'confidence': '', 'box': [164, 1952, 1483, 2155], 'bbox_converted': (59.02810229816921, 702.6198403764963, 533.7724128547862, 775.6894241861422)}], table:None, img:None5===============layout_type:footer, box:[1385, 2237, 1487, 2258], detections:[{'id': 0, 'text': '5 | P a g e', 'confidence': '', 'box': [1385, 2237, 1487, 2258], 'bbox_converted': (498.4995224570997, 805.2052166609745, 535.2121226669367, 812.7641391240413)}], table:None, img:None1===============layout_type:text, box:[164, 286, 760, 318], detections:[{'id': 0, 'text': '외부 검토 의견(SECOND PARTY OPINION', 'confidence': '', 'box': [164, 286, 760, 318], 'bbox_converted': (59.02810229816921, 102.94532497319567, 273.544864308589, 114.46368301215463)}], table:None, img:None1===============layout_type:title, box:[165, 461, 846, 508], detections:[{'id': 0, 'text': '우리은행 지속가능금융 프레임워크', 'confidence': '', 'box': [165, 461, 846, 508], 'bbox_converted': (59.38802975120683, 165.93634549875247, 304.4986252698241, 182.85393386847343)}], table:None, img:None1===============layout_type:text, box:[165, 588, 384, 621], detections:[{'id': 0, 'text': 'DNV 독립 검토', 'confidence': '', 'box': [165, 588, 384, 621], 'bbox_converted': (59.38802975120683, 211.64982896587082, 138.212141966445, 223.52813569354726)}], table:None, img:None1===============layout_type:title, box:[165, 588, 384, 621], detections:[{'id': 0, 'text': 'DNV 독립 검토', 'confidence': '', 'box': [165, 588, 384, 621], 'bbox_converted': (59.38802975120683, 211.64982896587082, 138.212141966445, 223.52813569354726)}], table:None, img:None1===============layout_type:title, box:[166, 693, 342, 727], detections:[{'id': 0, 'text': '범위 및 목적', 'confidence': '', 'box': [166, 693, 342, 727], 'bbox_converted': (59.74795720424444, 249.4444412812049, 123.09518893886506, 261.6826966975988)}], table:None, img:None1===============layout_type:text, box:[167, 693, 342, 727], detections:[{'id': 0, 'text': '범위 및 목적', 'confidence': '', 'box': [167, 693, 342, 727], 'bbox_converted': (60.107884657282064, 249.4444412812049, 123.09518893886506, 261.6826966975988)}], table:None, img:None1===============layout_type:unknown, box:[1226, 127, 1464, 148], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [1226, 127, 1464, 148], 'bbox_converted': (441.2710574241186, 45.71348346711836, 526.9337912470714, 53.27240593018517)}], table:None, img:None1===============layout_type:text, box:[164, 762, 1497, 1312], detections:[{'id': 0, 'text': '우리은행은 대한민국의 가장 큰 은행 시중은행 중 하나로 개인, 소상공인, 중소기업 및 대기업을 위한 소매ˑ기업ˑ투자 금융, 자산운용 및 \n신탁금융 상품ˑ서비스 등의 폭넓은 금융서비스를 제공하고 있습니다. 1899 년에 설립된 우리은행은 우리금융그룹의 자회사이며 국내 최대 \n규모의 네트워크를 보유하고 있는 시중은행 중 하나로서 619 개 지점과 89 개 사무소를 운영하고 있으며 이에 더해 24 개국에 걸쳐 \n465 개의 해외지점 및 현지사무소를 운영하며 국내 시중은행 중 가장 큰 글로벌 네트워크를 보유하고 있습니다. \n우리금융그룹의 전반적 ESG 경영 전략에 맞춰 우리은행은 지속가능성 촉진을 위한 금융 서비스를 제공하는 것에 전념하고 있으며 이에 \n대한 일환으로 2019 년부터 총 45 억 달러가 넘는 규모의 ESG 채권을 발행해왔습니다.  이와 같이 조달된 자금은 재생에너지, 친환경 \n건물, 사회적 기업 등에 대한 투자 및 저소득층을 위한 재원지원에 사용되었습니다.  우리은행은 당행의 ESG 자금 조달을 확대하기 위해 \n2023 년 9 월 지속가능금융 프레임워크(이하 “프레임워크”)를 업데이트하여 이를 기반으로 저탄소 교통수단 및 중소기업에 대한 금융지원 \n등을 포함한 신규 또는 기존 적격 환경∙사회적 사업∙프로젝트에 대한 자금 조달 또는 차환에 사용하기 위한 녹색, 사회적, 지속가능 채권 \n또는 대출(이하 “지속가능금융상품” 또는 “SFI”)을 발행할 계획입니다. \n(주)디엔브이비즈니스어슈어런스코리아(이하 “DNV”)1는 우리은행으로부터 본 프레임워크에 대한 검토와 함께, 국제자본시장협회 (이하 \n“ICMA”)에서 발행한 2021 녹색 채권 원칙 (이하 “GBP”)2, 2023 사회 채권 원칙 (이하 “SBP)3, 2021 지속가능채권 가이드라인 (이하 ', 'confidence': '', 'box': [164, 762, 1497, 1312], 'bbox_converted': (59.02810229816921, 274.28090080271016, 538.8113971973129, 472.2526795973172)}], table:None, img:None1===============layout_type:text, box:[220, 1250, 1432, 1410], detections:[{'id': 0, 'text': '디엔브이비즈니스어슈어런스코리아(이하 “DNV”)1는 우리은행으로부터 본 프레임워크에 대한 검토와 함께, 국제자본시장협회\nMA”)에서 발행한 2021 녹색 채권 원칙 (이하 “GBP”)2, 2023 사회 채권 원칙 (이하 “SBP)3, 2021 지속가능채권 가이드라인\nG”)4, 그리고 대출시장협회(이하 “LMA”)에서 발행한 2023 녹색 대출 원칙 (이하 “GLP”)5, 2023 사회 대출 원칙 (이하 “SL\n본 프레임워크의 부합 여부에 대한 외부 검토 의견서 제공을 의뢰 받았습니다.  ', 'confidence': '', 'box': [220, 1250, 1432, 1410], 'bbox_converted': (79.18403966827577, 449.93586089683424, 515.4161127498677, 507.527651091629)}], table:None, img:None1===============layout_type:text, box:[220, 1448, 1433, 1557], detections:[{'id': 0, 'text': '레임워크를 통해 발행된 금융 상품의 재무적 성과, 투자 가치 또는 금융 거래 환경 및 사회적 장기적 편익에 대한 보증은 제공\n니다. DNV 독립 검토의 목적은 우리은행의 프레임워크가 아래 명시된 항목에 따라 설정된 기준의 충족 여부를 평가하는 것입니', 'confidence': '', 'box': [220, 1448, 1433, 1557], 'bbox_converted': (79.18403966827577, 521.2057012628927, 515.7760402029054, 560.4401083330968)}], table:None, img:None1===============layout_type:title, box:[165, 1632, 529, 1665], detections:[{'id': 0, 'text': '우리은행 및 DNV 의 책임', 'confidence': '', 'box': [165, 1632, 529, 1665], 'bbox_converted': (59.38802975120683, 587.4362599869067, 190.40162265689946, 599.3145667145832)}], table:None, img:None1===============layout_type:text, box:[220, 1708, 1433, 1775], detections:[{'id': 0, 'text': '은행은 평가를 수행하는 동안 DNV 에서 활용한 정보 및 데이터를 제공했습니다. 당사의 성명(Statement)은 독립적 의견\n되어야 하며, 본 프레임워크가 GBP, SBP, SBG, GLP 그리고 SLP 와 일치하는지 여부에 대하여 우리은행 및 본 프레임워크와 관', 'confidence': '', 'box': [220, 1708, 1433, 1775], 'bbox_converted': (79.18403966827577, 614.7923603294342, 515.7760402029054, 638.9089224735046)}], table:None, img:None1===============layout_type:reference, box:[165, 1870, 1496, 2028], detections:[{'id': 0, 'text': '1 https://www.dnv.co.kr/ \n2 https://www.icmagroup.org/assets/documents/Sustainable-finance/2022-updates/Green-Bond-Principles_June-2022-280622.pdf \n3 https://www.icmagroup.org/assets/documents/Sustainable-finance/2023-updates/Social-Bond-Principles-SBP-June-2023-220623.pdf \n4 https://www.icmagroup.org/assets/GreenSocialSustainabilityDb/The-GBP-Guidance-Handbook-January-2022.pdf  \n5 https://www.lsta.org/content/green-loan-principles/  \n6 https://www.lsta.org/content/social-loan-principles-slp/ ', 'confidence': '', 'box': [165, 1870, 1496, 2028], 'bbox_converted': (59.38802975120683, 673.104047901664, 538.4514697442752, 729.9759407190238)}], table:None, img:None1===============layout_type:reference, box:[161, 2126, 1342, 2238], detections:[{'id': 0, 'text': '본 검토의견서는 영문 및 국문으로 작성되었으며, 영문 원본과 국문 번역본 사이에 차이가 있는 경우, 영문 원본 우선을 원칙으로 함. \nThis document has been written in English and Korean, but if there arises any conflict between the English original and Korean translation, the English version shall prevail over Korean trans\n \nDNV BUSINESS ASSURANCE KOREA Ltd  \n18F, Kyobo Bldg., 1, Jongno, Jongno-gu, Seoul, 03154, South Korea. Head Office DNV Business Assurance Group AS con Sede in Veritasveien 1, 1363 Høvik, 0219 Bærum, Norway. ', 'confidence': '', 'box': [161, 2126, 1342, 2238], 'bbox_converted': (57.94831993905636, 765.2509122133356, 483.0226419764822, 805.565165349692)}], table:None, img:None1===============layout_type:reference, box:[164, 2129, 1088, 2173], detections:[{'id': 0, 'text': '본 검토의견서는 영문 및 국문으로 작성되었으며, 영문 원본과 국문 번역본 사이에 차이가 있는 경우, 영문 원본 우선을 원칙으로 함. \nThis document has been written in English and Korean, but if there arises any conflict between the English original and Korean translation, the Englis', 'confidence': '', 'box': [164, 2129, 1088, 2173], 'bbox_converted': (59.02810229816921, 766.330758279488, 391.60106890492744, 782.1685005830566)}], table:None, img:None2===============layout_type:title, box:[333, 178, 477, 218], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [333, 178, 477, 218], 'bbox_converted': (119.85584186152651, 64.07086659170919, 171.6853950989434, 78.46881414040789)}], table:None, img:None2===============layout_type:unknown, box:[994, 192, 1445, 215], detections:[{'id': 0, 'text': '우리은행 지속가능금융 관리체계에 대한 SPO', 'confidence': '', 'box': [994, 192, 1445, 215], 'bbox_converted': (357.76788831939143, 69.11014823375373, 520.0951696393568, 77.38896807425549)}], table:None, img:None2===============layout_type:text, box:[164, 314, 1493, 474], detections:[{'id': 0, 'text': '기타 이해관계자들에게 필요한 정보를 제공하기 위해 작성되었습니다. DNV 는 우리은행이 당사에 제공한 정보 및 사실(Fact)에 기반하여\n본 평가를 수행하였습니다. DNV 는 본 의견서에서 언급된 지정 자산(Nominated Asset)의 어떠한 측면에 대해서도 책임을 지지 않으며,\n추정, 발견사항, 의견 또는 결론이 잘못된 경우에도 책임을 지지 않습니다. DNV 는 본 평가의 기초로 사용된 우리은행 제공 정보 또는\n데이터가 정확하지 않거나 완전하지 않은 경우에도 어떠한 책임도 가지지 않습니다. ', 'confidence': '', 'box': [164, 314, 1493, 474], 'bbox_converted': (59.02810229816921, 113.02388825728475, 537.3716873851624, 170.61567845207955)}], table:None, img:None2===============layout_type:title, box:[165, 565, 490, 599], detections:[{'id': 0, 'text': 'DNV 의견의 판단 기준', 'confidence': '', 'box': [165, 565, 490, 599], 'bbox_converted': (59.38802975120683, 203.37100912536906, 176.3644519884324, 215.60926454176297)}], table:None, img:None2===============layout_type:reference, box:[166, 633, 1498, 1348], detections:[{'id': 0, 'text': 'DNV 는 당사의 평가 방법론을 적용하여 우리은행의 지속가능금융 프레임워크 적격성 평가를 위한 별도의 프로토콜(이하 "프로토콜")을 \n수립하였습니다. DNV 의 프로토콜에는 당사의 의견을 뒷받침하는 근거로 활용될 수 있는 기준이 포함되어 있습니다. \nDNV 의 프로토콜에 따라, 본 프레임워크에 대해 검토된 기준은 아래 네 가지 원칙으로 분류됩니다: \n• \n원칙 1: 자금의 용도. 자금의 사용 기준은 채권 발행기관 또는 대출 차용자가 적격한 활동(eligible activities)에만 금융 지원을 \n제공하기 위한 기준을 제시해야 하는 요구사항의 적용을 받습니다. 적격 활동은 명확한 환경 및 사회적 혜택을 제공하는 \n활동이어야 합니다. \n• \n원칙 2: 프로젝트 평가 및 선정 프로세스. 프로젝트 평가 및 선정 기준은 채권 발행기관 및 대출 차용자가 녹색(Green), \n사회(Social) 및 지속가능성(Sustainability) 채권 또는 대출의 발행대금을 사용하여 투자 적격성을 결정하는 프로세스, 그리고 \n고려할 수 있는 영향(Impact) 관리 목표를 개략적으로 설명해야 하는 요구사항의 적용을 받습니다.  \n• \n원칙 3: 자금의 관리. 자금 관리 기준은 조직 내에서 채권 및 대출을 추적하고, 필요에 따라 별도의 포트폴리오를 구성해야 하며, \n미사용 자금을 처리하는 방법에 대한 관리 방안을 제시해야 한다는 요구사항의 적용을 받습니다.  \n• \n원칙 4: 사후 보고. 사후 보고 기준은 최소 연 1 회 자금의 사용 내역을 보고해야 하며, 가능한 경우 정량적 또는 정성적 성과 \n지표를 사용하여 보고해야 하는 권고사항의 적용을 받습니다. ', 'confidence': '', 'box': [166, 633, 1498, 1348], 'bbox_converted': (59.74795720424444, 227.84751995815685, 539.1713246503505, 485.210832391146)}], table:None, img:None2===============layout_type:text, box:[166, 639, 1497, 1347], detections:[{'id': 0, 'text': 'DNV 는 당사의 평가 방법론을 적용하여 우리은행의 지속가능금융 프레임워크 적격성 평가를 위한 별도의 프로토콜(이하 "프로토콜")을 \n수립하였습니다. DNV 의 프로토콜에는 당사의 의견을 뒷받침하는 근거로 활용될 수 있는 기준이 포함되어 있습니다. \nDNV 의 프로토콜에 따라, 본 프레임워크에 대해 검토된 기준은 아래 네 가지 원칙으로 분류됩니다: \n• \n원칙 1: 자금의 용도. 자금의 사용 기준은 채권 발행기관 또는 대출 차용자가 적격한 활동(eligible activities)에만 금융 지원을 \n제공하기 위한 기준을 제시해야 하는 요구사항의 적용을 받습니다. 적격 활동은 명확한 환경 및 사회적 혜택을 제공하는 \n활동이어야 합니다. \n• \n원칙 2: 프로젝트 평가 및 선정 프로세스. 프로젝트 평가 및 선정 기준은 채권 발행기관 및 대출 차용자가 녹색(Green), \n사회(Social) 및 지속가능성(Sustainability) 채권 또는 대출의 발행대금을 사용하여 투자 적격성을 결정하는 프로세스, 그리고 \n고려할 수 있는 영향(Impact) 관리 목표를 개략적으로 설명해야 하는 요구사항의 적용을 받습니다.  \n• \n원칙 3: 자금의 관리. 자금 관리 기준은 조직 내에서 채권 및 대출을 추적하고, 필요에 따라 별도의 포트폴리오를 구성해야 하며, \n미사용 자금을 처리하는 방법에 대한 관리 방안을 제시해야 한다는 요구사항의 적용을 받습니다.  \n• \n원칙 4: 사후 보고. 사후 보고 기준은 최소 연 1 회 자금의 사용 내역을 보고해야 하며, 가능한 경우 정량적 또는 정성적 성과 \n지표를 사용하여 보고해야 하는 권고사항의 적용을 받습니다. ', 'confidence': '', 'box': [166, 639, 1497, 1347], 'bbox_converted': (59.74795720424444, 230.00721209046165, 538.8113971973129, 484.8508837024286)}], table:None, img:None2===============layout_type:title, box:[165, 1444, 301, 1478], detections:[{'id': 0, 'text': '평가 활동', 'confidence': '', 'box': [165, 1444, 301, 1478], 'bbox_converted': (59.38802975120683, 519.7659065080229, 108.33816336432275, 532.0041619244167)}], table:None, img:None2===============layout_type:text, box:[173, 1515, 1492, 1970], detections:[{'id': 0, 'text': 'DNV 는 우리은행이 제공한 모든 정보가 선의(good faith)를 기반으로 제공되었다는 이해를 전제로, 사용 가능한 모든 정보에 대해 높은\n수준의 검토를 실시하였습니다. DNV 는 당사에 제공된 정보의 정확성을 확인하기 위해 별도의 감사 또는 테스트를 수행하지 않았습니다.\n평가 의견을 도출하기 위해 하기의 활동을 실시하였습니다:  \n• \nDNV 의견의 판단 기준 및 부록 3 에 명시된 대로 본 프레임워크의 평가 목적에 맞도록 작성된 프로토콜 수립 \n• \n우리은행이 제공한 프레임워크 관련 문건 평가 (높은 수준의 desktop 연구 포함). 본 검토 작업 시 최근 모범 사례, 표준 방법론\n등을 참조하였음 \n• \n우리은행이 발행한 자료 및 웹사이트에 대한 리뷰 \n• \n우리은행과의 협의, 프로토콜 기준과 관련된 문서 및 근거 자료에 대한 리뷰 \n• \n평가 기준의 각 항목에 대한 발견사항 문서화. 아래에서 제시된 당사의 의견은 이러한 발견사항에 대한 요약 정보임 ', 'confidence': '', 'box': [173, 1515, 1492, 1970], 'bbox_converted': (62.267449375507766, 545.3222634069631, 537.0117599321247, 709.0989167734108)}], table:None, img:None2===============layout_type:footer, box:[1383, 2219, 1488, 2238], detections:[{'id': 0, 'text': '2 | P a g e', 'confidence': '', 'box': [1383, 2219, 1488, 2238], 'bbox_converted': (497.7796675510245, 798.7261402640601, 535.5720501199743, 805.565165349692)}], table:None, img:None3===============layout_type:title, box:[333, 178, 477, 219], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [333, 178, 477, 219], 'bbox_converted': (119.85584186152651, 64.07086659170919, 171.6853950989434, 78.82876282912535)}], table:None, img:None3===============layout_type:unknown, box:[331, 180, 477, 218], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [331, 180, 477, 218], 'bbox_converted': (119.13598695545127, 64.79076396914412, 171.6853950989434, 78.46881414040789)}], table:None, img:None3===============layout_type:title, box:[166, 318, 561, 351], detections:[{'id': 0, 'text': '발견사항 및 DNV 검토 의견', 'confidence': '', 'box': [166, 318, 561, 351], 'bbox_converted': (59.74795720424444, 114.46368301215463, 201.9193011541032, 126.34198973983105)}], table:None, img:None3===============layout_type:text, box:[172, 416, 538, 441], detections:[{'id': 0, 'text': 'DNV 의 발견사항은 아래와 같습니다: ', 'confidence': '', 'box': [172, 416, 538, 441], 'bbox_converted': (61.907521922470146, 149.73865450646642, 193.640969734238, 158.73737172440312)}], table:None, img:None3===============layout_type:title, box:[167, 483, 410, 507], detections:[{'id': 0, 'text': '1. \n원칙 1: 자금의 용도', 'confidence': '', 'box': [167, 483, 410, 507], 'bbox_converted': (60.107884657282064, 173.85521665053673, 147.57025574542303, 182.49398517975595)}], table:None, img:None3===============layout_type:unknown, box:[994, 192, 1445, 215], detections:[{'id': 0, 'text': '우리은행 지속가능금융 관리체계에 대한 SPO', 'confidence': '', 'box': [994, 192, 1445, 215], 'bbox_converted': (357.76788831939143, 69.11014823375373, 520.0951696393568, 77.38896807425549)}], table:None, img:None3===============layout_type:text, box:[220, 534, 1433, 637], detections:[{'id': 0, 'text': '우리은행은 본 프레임워크에 따라 발행된 채무증서(debt instruments)의 발행대금을 신규 또는 기존 적격 녹색 및 사회 프로\n범주의 전체 또는 일부에 대한 자금 조달 및 차환에 사용하고자 합니다. 본 프레임워크에서는 적격 프로젝트 범주를 아래와\n정의하고 있습니다.   ', 'confidence': '', 'box': [220, 534, 1433, 637], 'bbox_converted': (79.18403966827577, 192.2125997751276, 515.7760402029054, 229.28731471302672)}], table:None, img:None3===============layout_type:text, box:[215, 916, 1375, 1435], detections:[{'id': 0, 'text': 'Resources and Land Use) \n• \n저탄소 교통수단 (Low Carbon Transportation) \n• \n지속가능한 수질 및 폐수 관리 (Sustainable Water and Wastewater Management) \n• \n친환경 건물 (Green Buildings) \n• \n기후변화 적응 (Climate Change Adaptation) \n적격 사회 프로젝트 범주 (Eligible Social Project Categories) \n• \n고용 창출, 중소기업금융 및 미소금융 (Employment Generation, SME Financing and Microfinance) \n• \n사회적기업금융 (Social Enterprise Financing) \n• \n서민 주거안정을 위한 주택금융 (Affordable Housing) \n• \n필수 사회서비스에 대한 접근성 (Access to Essential Services) \n• \n사회기반시설에 대한 인프라 (Affordable Basic Infrastructure) ', 'confidence': '', 'box': [215, 916, 1375, 1435], 'bbox_converted': (77.38440240308769, 329.7129988652001, 494.9002479267236, 516.5263683095657)}], table:None, img:None3===============layout_type:text, box:[222, 1173, 1346, 1434], detections:[{'id': 0, 'text': '적격 사회 프로젝트 범주 (Eligible Social Project Categories) \n• \n고용 창출, 중소기업금융 및 미소금융 (Employment Generation, SME Financing and Microfinance\n• \n사회적기업금융 (Social Enterprise Financing) \n• \n서민 주거안정을 위한 주택금융 (Affordable Housing) \n• \n필수 사회서비스에 대한 접근성 (Access to Essential Services) \n• \n사회기반시설에 대한 인프라 (Affordable Basic Infrastructure) ', 'confidence': '', 'box': [222, 1173, 1346, 1434], 'bbox_converted': (79.903894574351, 422.21981186558924, 484.46235178863265, 516.1664196208483)}], table:None, img:None3===============layout_type:text, box:[211, 1501, 1493, 1770], detections:[{'id': 0, 'text': 'DNV는 GBP, SBP, SBG, GLP 및 SLP에 따라 관련 프로젝트들이 "친환경" 및 "사회적으로 유익한" 프로젝트로서 적격한지 여부를\n검토하기 위해 프로젝트 분석을 실시했습니다. 우리은행은 적격 녹색 및 사회 프로젝트 범주와 UN 지속가능 개발 목표 (이하\n“SDGs”)에 대한 대조표를 수립했고, 적격성 여부를 결정하기 위한 각 프로젝트 유형 및 선정 기준이 본 프레임워크에 기술되어\n있습니다. 또한 우리은행은 프레임워크에 프로젝트 배제기준을 제시했습니다.  또한, 차환의 경우 우리은행은 SFI 발행일을 기준으로\n36개월(look-back period) 이내에 취급된 기존 적격 프로젝트에 대해서만 적용 가능한 용처로 간주할 것을 명시하였습니다. \nDNV는 본 프레임워크에 기재된 적격성 범주가 2021 GBP, 2023 SBP, 2021 SBG, 2023 GLP 및 2023 SLP 에 명시된 범주와\n일치한다는 의견입니다.  ', 'confidence': '', 'box': [211, 1501, 1493, 1770], 'bbox_converted': (75.94469259093722, 540.2829817649185, 537.3716873851624, 637.1091790299173)}], table:None, img:None3===============layout_type:title, box:[165, 1817, 608, 1841], detections:[{'id': 0, 'text': '2. \n원칙 2: 프로젝트 평가 및 선정 프로세스 ', 'confidence': '', 'box': [165, 1817, 608, 1841], 'bbox_converted': (59.38802975120683, 654.0267673996382, 218.83589144687122, 662.6655359288575)}], table:None, img:None3===============layout_type:text, box:[210, 1864, 1495, 2057], detections:[{'id': 0, 'text': '잠재적인 적격 사업은 먼저 우리은행의 사업부가 파악하고 제안하며 사업부는 본 사업들이 우리은행의 통상적인 대출 취급 기준의\n만족 여부를 확인합니다. 이후 녹색·사회적·지속가능 파이낸싱 실무그룹(GSSFWG)에서 사업부로부터 제출된 잠재적 적격 사업을\n본 프레임워크에 제시된 녹색 및 사회 프로젝트 적격기준에 기반하여 평가한 후 최종 승인합니다. GSSFWG는 ESG기획부, 자금부,\n상생금융부, 주택기금부, 기업고객부, 기업금융솔루션부, 글로벌영업추진부, CIB사업부 대표로 구성됩니다. \nDNV는 우리은행의 프레임워크가 프로젝트 평가 및 선정 프로세스를 적절히 설명하고 있다고 판단합니다. ', 'confidence': '', 'box': [210, 1864, 1495, 2057], 'bbox_converted': (75.5847651378996, 670.9443557693592, 538.0915422912376, 740.4144526918304)}], table:None, img:None3===============layout_type:footer, box:[1383, 2219, 1488, 2238], detections:[{'id': 0, 'text': '3 | P a g e', 'confidence': '', 'box': [1383, 2219, 1488, 2238], 'bbox_converted': (497.7796675510245, 798.7261402640601, 535.5720501199743, 805.565165349692)}], table:None, img:None4===============layout_type:title, box:[333, 179, 477, 218], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [333, 179, 477, 218], 'bbox_converted': (119.85584186152651, 64.43081528042666, 171.6853950989434, 78.46881414040789)}], table:None, img:None4===============layout_type:title, box:[164, 310, 410, 336], detections:[{'id': 0, 'text': '3. \n원칙 3: 자금의 관리', 'confidence': '', 'box': [164, 310, 410, 336], 'bbox_converted': (59.02810229816921, 111.58409350241489, 147.57025574542303, 120.94275940906904)}], table:None, img:None4===============layout_type:unknown, box:[994, 192, 1445, 215], detections:[{'id': 0, 'text': '우리은행 지속가능금융 관리체계에 대한 SPO', 'confidence': '', 'box': [994, 192, 1445, 215], 'bbox_converted': (357.76788831939143, 69.11014823375373, 520.0951696393568, 77.38896807425549)}], table:None, img:None4===============layout_type:text, box:[185, 360, 1496, 510], detections:[{'id': 0, 'text': '우리은행은 지속가능금융상품(SFI) 자금 관리를 위해 지속가능금융상품 기록부(Sustainable Financing Register)를 만들\n것입니다. 각각의 SFI 발행대금은 일반회계 계좌에 보관되고 기록부에 기록되어 적격 프로젝트에 배정될(earmarked) 것입니다.\n기록부에는 적격 프로젝트의 요약, 할당된 대금 및 아직 할당되지 않은 미사용 대금 등의 내용이 기록될 것입니다. \nDNV는 제시된 근거자료를 검토하였으며 향후 발행대금이 적절하게 관리될 것임을 확인할 수 있었습니다.  ', 'confidence': '', 'box': [185, 360, 1496, 510], 'bbox_converted': (66.58657881195917, 129.58152793828825, 538.4514697442752, 183.57383124590837)}], table:None, img:None4===============layout_type:title, box:[164, 558, 388, 582], detections:[{'id': 0, 'text': '4. \n원칙 4: 사후 보고', 'confidence': '', 'box': [164, 558, 388, 582], 'bbox_converted': (59.02810229816921, 200.8513683043468, 139.65185177859544, 209.49013683356603)}], table:None, img:None4===============layout_type:text, box:[192, 609, 1495, 930], detections:[{'id': 0, 'text': '우리은행은 연 1회 (해당 SFI 만기시 까지) 자금 사용 내역 및 효과에 대한 결과를 수록한 자금 조달 영향 보고서(Impact\nReporting)를 당사 홈페이지에 게재할 예정이며 보고서에는 다음 내용이 포함될 예정입니다. \n• \n각각의 지속가능금융상품(SFI) 대금 사용이 본 프레임워크에 부합함을 확인 \n• \n할당된 자금 총액 및 각 적격 카테고리별 세부내역 \n• \n미사용 발행대금 잔액 \n• \n신규 파이낸싱 및 리파이낸싱 비중 \nDNV는 우리은행이 제시한 자금 조달 영향 보고서의 내용이 관련 원리들과 부합하다는 의견입니다. ', 'confidence': '', 'box': [192, 609, 1495, 930], 'bbox_converted': (69.1060709832225, 219.20875142893763, 538.0915422912376, 334.7522805072447)}], table:None, img:None4===============layout_type:text, box:[164, 997, 1483, 1119], detections:[{'id': 0, 'text': '우리은행에서 제공한 정보 및 DNV 가 수행한 작업을 기반으로 우리은행의 지속가능 금융 프레임워크가 프로토콜에서 제시된 기준을 \n충족하며, GBP, SBP, SBG, GLP 및 SLP 기준과 일치한다 것이 DNV 의견입니다. 부록4 지속가능금융 프레임워크 외부 검토 양식을\n참고하시기 바랍니다. ', 'confidence': '', 'box': [164, 997, 1483, 1119], 'bbox_converted': (59.02810229816921, 358.868842651315, 533.7724128547862, 402.782582674846)}], table:None, img:None4===============layout_type:text, box:[164, 1205, 571, 1275], detections:[{'id': 0, 'text': 'DNV Business Assurance Korea Ltd.\n대한민국 서울 / 2023년 9월 4일 ', 'confidence': '', 'box': [164, 1205, 571, 1275], 'bbox_converted': (59.02810229816921, 433.7381699045482, 205.51857568447937, 458.9345781147709)}], table:None, img:None4===============layout_type:text, box:[160, 1412, 1308, 1597], detections:[{'id': 0, 'text': '김재희                                        윤창록 \n위원 Senior Auditor                    위원 Senior Auditor \n \nThomas Leonard \n기술검토자 Technical Reviewer ', 'confidence': '', 'box': [160, 1412, 1308, 1597], 'bbox_converted': (57.58839248601874, 508.24754846906393, 470.7851085732032, 574.8380558817954)}], table:None, img:None4===============layout_type:text, box:[165, 1415, 747, 1596], detections:[{'id': 0, 'text': '김재희                                        윤창록 \n위원 Senior Auditor                    위원 Senior Auditor ', 'confidence': '', 'box': [165, 1415, 747, 1596], 'bbox_converted': (59.38802975120683, 509.32739453521634, 268.8658074191, 574.4781071930779)}], table:None, img:None4===============layout_type:text, box:[166, 1650, 523, 1713], detections:[{'id': 0, 'text': '프로젝트 팀 Project Team \nDNV Business Assurance Korea', 'confidence': '', 'box': [166, 1650, 523, 1713], 'bbox_converted': (59.74795720424444, 593.9153363838212, 188.24205793867375, 616.5921037730217)}], table:None, img:None4===============layout_type:text, box:[966, 1534, 1300, 1596], detections:[{'id': 0, 'text': 'Thomas Leonard \n기술검토자 Technical Reviewer', 'confidence': '', 'box': [966, 1534, 1300, 1596], 'bbox_converted': (347.68991963433814, 552.161288492595, 467.9056889489023, 574.4781071930779)}], table:None, img:None4===============layout_type:text, box:[965, 1662, 1353, 1726], detections:[{'id': 0, 'text': '부장 Head of Section \nSustainability Services, DNV SCPA', 'confidence': '', 'box': [965, 1662, 1353, 1726], 'bbox_converted': (347.32999218130055, 598.2347206484308, 486.98184395989597, 621.2714367263487)}], table:None, img:None4===============layout_type:reference, box:[163, 1932, 1498, 2091], detections:[{'id': 0, 'text': 'About DNV \n생명, 재산 및 환경 보호를 목적으로 DNV 는 조직이 비즈니스의 안전과 지속가능성을 발전시킬 수 있도록 지원합니다. 선도적인 기술 및 전문성, 리스크 \n방법론 및 심층적인 산업 지식을 결합하여 고객의 의사결정과 활동에 신뢰와 확신을 더합니다. DNV 는 기술적, 운영적 통찰력을 바탕으로 고객과 사회에 \n기여하기 위해 연구개발 및 협력적 혁신에 지속적으로 투자하고 있습니다. DNV 는 1864 년 설립되어 현재는 전세계에서 서비스를 제공하고 있습니다. \n100 개 이상의 국가, 16,000 명의 전문가는 고객이 더 안전하고 스마트하며 친환경적인 세상을 만들 수 있도록 최선을 다하고 있습니다. ', 'confidence': '', 'box': [163, 1932, 1498, 2091], 'bbox_converted': (58.668174845131595, 695.4208666021469, 539.1713246503505, 752.6527081082243)}], table:None, img:None4===============layout_type:footer, box:[1384, 2219, 1486, 2238], detections:[{'id': 0, 'text': '4 | P a g e', 'confidence': '', 'box': [1384, 2219, 1486, 2238], 'bbox_converted': (498.13959500406213, 798.7261402640601, 534.8521952138991, 805.565165349692)}], table:None, img:None5===============layout_type:title, box:[333, 161, 478, 199], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [333, 161, 478, 199], 'bbox_converted': (119.85584186152651, 57.95173888351225, 172.045322551981, 71.62978905477601)}], table:None, img:None5===============layout_type:unknown, box:[1024, 182, 1464, 210], detections:[{'id': 0, 'text': '리은행 지속가능금융 프레임워크에 대한 SPO', 'confidence': '', 'box': [1024, 182, 1464, 210], 'bbox_converted': (368.56571191051995, 65.51066134657907, 526.9337912470714, 75.58922463066816)}], table:None, img:None5===============layout_type:text, box:[165, 307, 1346, 341], detections:[{'id': 0, 'text': '부록 1: 우리은행 지속가능금융상품(SFI)를 통한 투자 또는 차환 대상의 범주에 관한', 'confidence': '', 'box': [165, 307, 1346, 341], 'bbox_converted': (59.38802975120683, 110.50424743626249, 484.46235178863265, 122.74250285265637)}], table:None, img:None5===============layout_type:table, box:[170, 443, 1484, 1834], detections:[{'id': 0, 'text': '\x0c', 'confidence': '', 'box': [170, 443, 1484, 1834], 'bbox_converted': (61.18766701639491, 159.45726910183805, 534.1323403078238, 660.1458951078351)}], table:None, img:None5===============layout_type:text, box:[196, 466, 915, 1539], detections:[{'id': 0, 'text': '재생에너지 \n재생에너지 사업의 구축, 유지보수 및 운영: \n• 육상 및 해상 태양광 발전(집광형 태양열 발전\n태양광 발전 모두 포함), 육상 및 해상 풍력발전\n• 바이오매스 에너지(수명주기 온실가스 배출량\n100g CO2e/kWh 미만인 냉난방 및 전력용 \n바이오매스, 바이오가스, 바이오액체연료가 \n사용되어야 하며, 이때 바이오매스 원료가 \n지속가능한 원료여야 함)8 \n• 해양에너지(해양 열에너지, 조력 발전)9 \n• 수력 발전(인공 저수지가 없는 수로식 혹은 \n자연유하식 발전소이거나 발전 시설의 전력 \n밀도가 5W/m2 를 초과하거나 수명주기 \n온실가스 배출량이 100g CO2e/kWh 미만) \n• 지열 에너지(수명주기 온실가스 배출량 100g\nCO2e/kWh 미만) \n풍력터빈, 태양광 패널 등 재생에너지 부품·소재 \n생산 혹은 수입 \n에너지 효율 \n베이스라인 또는 시장 평균 대비 30% 이상의 \n에너지 효율 개선을 달성하는 개발 사업, 제조업,\n인프라 구축, 장비, 기술 등: \n• 수소연료전지 기술 \n• 건물 및 가정 에너지 관리: 조명, 공조장치, 폐\n회수, 지역냉방 등 개선 \n• 열 펌프, 열 교환기 등 공장 내 폐열을 기타 \n산업에 유용한 에너지로 재활용할 수 있는 폐열\n회수 기술 ', 'confidence': '', 'box': [196, 466, 915, 1539], 'bbox_converted': (70.54578079537296, 167.7360889423398, 329.3336195294197, 553.9610319361823)}], table:None, img:None5===============layout_type:table, box:[980, 458, 1476, 1868], detections:[{'id': 0, 'text': '\x0c', 'confidence': '', 'box': [980, 458, 1476, 1868], 'bbox_converted': (352.7289039768648, 164.85649943260006, 531.2529206835229, 672.3841505242291)}], table:None, img:None5===============layout_type:reference, box:[164, 1952, 1483, 2155], detections:[{'id': 0, 'text': '7 해상 태양광·풍력 발전단지의 경우 화석연료 기반 백업 전원은 정전 발생 시 재가동, 모니터링, 운영 및 복구에 한하여 사용되어야 한다. \n8 목재 펠릿, 우드칩 등 바이오매스 원료의 경우, 우리은행은 필요시 FSC 인증을 받은 지속가능한 연료만 사용한다. FSC 인증이 요구되지 않는 경우, 생물자원에서\n유래하거나 잠재적인 식량 공급원이거나 탄소 저장고를 고갈시키는 바이오매스 원료는 제외된다. \n9 해상 태양광·풍력 발전단지의 경우 화석연료 기반 백업 전원은 정전 발생 시 재가동, 모니터링, 운영 및 복구에 한하여 사용되어야 한다. \n10 Electricity generation from fossil gaseous fuels (https://ec.europa.eu/sustainable-finance-taxonomy/activities/activity/191/view) or \nmanufacture of hydrogen (https://ec.europa.eu/sustainable-finance-taxonomy/activities/activity/155/view) \n13 https://climate.ec.europa.eu/eu-action/fluorinated-greenhouse-gases/climate-friendly-alternatives-hfcs_en ', 'confidence': '', 'box': [164, 1952, 1483, 2155], 'bbox_converted': (59.02810229816921, 702.6198403764963, 533.7724128547862, 775.6894241861422)}], table:None, img:None5===============layout_type:footer, box:[1385, 2237, 1487, 2258], detections:[{'id': 0, 'text': '5 | P a g e', 'confidence': '', 'box': [1385, 2237, 1487, 2258], 'bbox_converted': (498.4995224570997, 805.2052166609745, 535.2121226669367, 812.7641391240413)}], table:None, img:None6===============layout_type:unknown, box:[1024, 183, 1464, 210], detections:[{'id': 0, 'text': '리은행 지속가능금융 프레임워크에 대한 SPO', 'confidence': '', 'box': [1024, 183, 1464, 210], 'bbox_converted': (368.56571191051995, 65.87061003529654, 526.9337912470714, 75.58922463066816)}], table:None, img:None6===============layout_type:table, box:[150, 298, 1485, 1739], detections:[{'id': 0, 'text': '\x0c', 'confidence': '', 'box': [150, 298, 1485, 1739], 'bbox_converted': (53.98911795564257, 107.26470923780528, 534.4922677608614, 625.9507696796758)}], table:None, img:None6===============layout_type:reference, box:[165, 1781, 1487, 2142], detections:[{'id': 0, 'text': '11 EU 지침 2012/19/EU 에 따라 지구온난화지수 15 CO2e 미만인 냉매를 사용하는 처리장비에 투자하거나, 지구온난화지수 15 CO2e 이상인 냉매 사용을 줄이기\n위한 연구개발에 대한 투자를 포함할 수 있다. \n12 EU 지역 외 소재한 시설만 적격 대상에 포함된다. 또한 적격 사업을 승인할 때 폐기물 계층 구조와 현지 환경법이 고려된다. \n14 https://research-and-innovation.ec.europa.eu/research-area/environment/nitrogen-and-phosphorus-pollution/policy_en \n15 미생물: 식물보호제품(PPP)에 사용되는 다른 모든 활성물질과 마찬가지로 미생물도 식물보호제품의 시장 출시에 관한 규정에 명시된 승인 기준을 충족하는 \n경우에만 사용 승인을 받을 수 있다.  과학적 위해성 평가를 통해 식물보호제품에 사용하는 것의 안전성이 확인된 이후 EU 에서 승인된 미생물은 60 개가 \n넘는다(Farm to Fork: new rules for micro-organisms (Europa.eu)). \n16 https://www.naqs.go.kr/eng/contents/contents.do?menuId=MN20568 \n17 https://digital-strategy.ec.europa.eu/en/policies/future-farming \n18 https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/644216/EPRS_BRI(2019)644216_EN.pdf  \n19 https://ec.europa.eu/commission/presscorner/detail/en/qanda_22_852 \n20 https://www.europarl.europa.eu/RegData/etudes/ATAG/2022/737130/EPRS_ATAG_737130_What_if_vertical_farming_final.pdf \n21 https://www.eea.europa.eu/articles/electric-vehicles-a-smart ', 'confidence': '', 'box': [165, 1781, 1487, 2142], 'bbox_converted': (59.38802975120683, 641.0686146058094, 535.2121226669367, 771.0100912328152)}], table:None, img:None6===============layout_type:footer, box:[1385, 2238, 1487, 2258], detections:[{'id': 0, 'text': '6 | P a g e', 'confidence': '', 'box': [1385, 2238, 1487, 2258], 'bbox_converted': (498.4995224570997, 805.565165349692, 535.2121226669367, 812.7641391240413)}], table:None, img:None7===============layout_type:unknown, box:[1056, 183, 1359, 205], detections:[{'id': 0, 'text': '행 지속가능금융 프레임워크에', 'confidence': '', 'box': [1056, 183, 1359, 205], 'bbox_converted': (380.0833904077237, 65.87061003529654, 489.1414086781217, 73.78948118708081)}], table:None, img:None7===============layout_type:table, box:[153, 293, 1500, 1937], detections:[{'id': 0, 'text': '\x0c', 'confidence': '', 'box': [153, 293, 1500, 1937], 'bbox_converted': (55.068900314755425, 105.46496579421795, 539.8911795564258, 697.2206100457344)}], table:None, img:None7===============layout_type:reference, box:[165, 1990, 927, 2147], detections:[{'id': 0, 'text': '22 https://www.europarl.europa.eu/news/en/press-room/20221205IPR60614/batter\ntreatment \n23 https://www.epa.gov/greenvehicles/glimpse-hydrogen-transportation \n24 https://www.eea.europa.eu/publications/transport-and-environment-report-2021\n25 https://www.eea.europa.eu/themes/water/european-waters/water-management \n26 https://climate-pact.europa.eu/about/priority-topics/green-buildings_en ', 'confidence': '', 'box': [165, 1990, 927, 2147], 'bbox_converted': (59.38802975120683, 716.2978905477601, 333.65274896587107, 772.8098346764025)}], table:None, img:None7===============layout_type:footer, box:[1385, 2237, 1487, 2257], detections:[{'id': 0, 'text': '7 | P a g e', 'confidence': '', 'box': [1385, 2237, 1487, 2257], 'bbox_converted': (498.4995224570997, 805.2052166609745, 535.2121226669367, 812.4041904353239)}], table:None, img:None8===============layout_type:text, box:[333, 160, 478, 200], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [333, 160, 478, 200], 'bbox_converted': (119.85584186152651, 57.59179019479478, 172.045322551981, 71.98973774349348)}], table:None, img:None8===============layout_type:unknown, box:[1024, 183, 1464, 210], detections:[{'id': 0, 'text': '리은행 지속가능금융 프레임워크에 대한 SPO', 'confidence': '', 'box': [1024, 183, 1464, 210], 'bbox_converted': (368.56571191051995, 65.87061003529654, 526.9337912470714, 75.58922463066816)}], table:None, img:None8===============layout_type:text, box:[965, 286, 1469, 646], detections:[{'id': 0, 'text': '위 인증 제도에 대한 DNV 의 내부 평가(참조 2)에 \n의거하여 DNV 는 위 제도의 인증을 받은 \n그린빌딩이 긍정적인 환경 영향을 미칠 것으로 \n판단함. \n극한기상 및 기후 현상에 대한 관측 및 예측이 \n기후변화의 영향을 완화시키는 주요 대응 중 하나 \n인 것과 기후변화 관련 재해 중 가장 흔한 것이 \n홍수인 것을 고려할 시 DNV 는 우리은행이 제시한\n기후변화 적응 프로젝트가 적격 녹색 프로젝트에 \n부합한 것으로 판단함.  ', 'confidence': '', 'box': [965, 286, 1469, 646], 'bbox_converted': (347.32999218130055, 102.94532497319567, 528.7334285122596, 232.52685291148393)}], table:None, img:None8===============layout_type:table, box:[162, 731, 1482, 1840], detections:[{'id': 0, 'text': '\x0c', 'confidence': '', 'box': [162, 731, 1482, 1840], 'bbox_converted': (58.308247392093975, 263.12249145246864, 533.4124854017487, 662.30558724014)}], table:None, img:None8===============layout_type:reference, box:[166, 1901, 1319, 2147], detections:[{'id': 0, 'text': '27 중소기업의 정의는 중소기업기본법 시행령 제2 조에 명시되어 있다. 법령 전문은 웹사이트 참조. http://law.go.kr/LSW/eng/engMain.do\n28 스타트업의 정의는 중소기업창업 지원법 제2 조의3 에 명시되어 있다.  법련 전문은 웹사이트 참조. \nhttps://elaw.klri.re.kr/kor_service/lawView.do?hseq=60093&lang=ENG \n29 https://www.mss.go.kr/site/eng/02/20202000000002019110610.jsp \n30 https://www.koreaherald.com/view.php?ud=20230621000578 \n31 https://www.oecd-ilibrary.org/sites/5abcd059-en/index.html?itemId=/content/component/5abcd059-en \n32 사회적기업의 정의는 사회적기업육성법 제2 조에 명시되어 있다. 법련 전문은 웹사이트 참조. http://law.go.kr/LSW/eng/engMain.do \n정부기관의 인증요건은 웹사이트 참조. www.socialenterprise.or.kr/kosea/reserve.do?dep1_kind=2 \n34  https://www.mdpi.com/2071-1050/12/21/8843 ', 'confidence': '', 'box': [166, 1901, 1319, 2147], 'bbox_converted': (59.74795720424444, 684.2624572519055, 474.744310556617, 772.8098346764025)}], table:None, img:None8===============layout_type:footer, box:[1385, 2237, 1487, 2257], detections:[{'id': 0, 'text': '8 | P a g e', 'confidence': '', 'box': [1385, 2237, 1487, 2257], 'bbox_converted': (498.4995224570997, 805.2052166609745, 535.2121226669367, 812.4041904353239)}], table:None, img:None9===============layout_type:text, box:[333, 160, 478, 199], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [333, 160, 478, 199], 'bbox_converted': (119.85584186152651, 57.59179019479478, 172.045322551981, 71.62978905477601)}], table:None, img:None9===============layout_type:unknown, box:[1024, 183, 1464, 210], detections:[{'id': 0, 'text': '리은행 지속가능금융 프레임워크에 대한 SPO', 'confidence': '', 'box': [1024, 183, 1464, 210], 'bbox_converted': (368.56571191051995, 65.87061003529654, 526.9337912470714, 75.58922463066816)}], table:None, img:None9===============layout_type:table, box:[157, 283, 1500, 1764], detections:[{'id': 0, 'text': '\x0c', 'confidence': '', 'box': [157, 283, 1500, 1764], 'bbox_converted': (56.50861012690589, 101.86547890704327, 539.8911795564258, 634.9494868976125)}], table:None, img:None9===============layout_type:reference, box:[164, 1920, 884, 2149], detections:[{'id': 0, 'text': "35 저소득층은 가구 소득을 기준으로 하는 보건복지부와 교육부의 분류에 따라 결정된다.\n36 사회적기업육성법 정의에 의거한다. \n37 상동 \n38 한부모가족지원법 정의에 의거한다. \n39 https://en.yna.co.kr/view/AEN20210204002651320 \n40 프로젝트 사례는 부록 1. ‘저탄소 교통수단’ 참조.   \n41 프로젝트 사례는 부록 1. '재생에너지' 참조.  \n42 https://unctad.org/news/why-least-developed-countries-need-urgent-action ", 'confidence': '', 'box': [164, 1920, 884, 2149], 'bbox_converted': (59.02810229816921, 691.1014823375374, 318.17586848525355, 773.5297320538374)}], table:None, img:None9===============layout_type:footer, box:[1385, 2238, 1487, 2257], detections:[{'id': 0, 'text': '9 | P a g e', 'confidence': '', 'box': [1385, 2238, 1487, 2257], 'bbox_converted': (498.4995224570997, 805.565165349692, 535.2121226669367, 812.4041904353239)}], table:None, img:None10===============layout_type:title, box:[333, 161, 479, 199], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [333, 161, 479, 199], 'bbox_converted': (119.85584186152651, 57.95173888351225, 172.40525000501862, 71.62978905477601)}], table:None, img:None10===============layout_type:title, box:[166, 307, 865, 342], detections:[{'id': 0, 'text': '부록 2: UN 지속가능개발목표(SDG)에 대한 기여', 'confidence': '', 'box': [166, 307, 865, 342], 'bbox_converted': (59.74795720424444, 110.50424743626249, 311.3372468775388, 123.10245154137384)}], table:None, img:None10===============layout_type:unknown, box:[1024, 183, 1464, 210], detections:[{'id': 0, 'text': '리은행 지속가능금융 프레임워크에 대한 SPO', 'confidence': '', 'box': [1024, 183, 1464, 210], 'bbox_converted': (368.56571191051995, 65.87061003529654, 526.9337912470714, 75.58922463066816)}], table:None, img:None10===============layout_type:table, box:[159, 373, 1507, 2007], detections:[{'id': 0, 'text': '\x0c', 'confidence': '', 'box': [159, 373, 1507, 2007], 'bbox_converted': (57.22846503298113, 134.26086089161532, 542.4106717276891, 722.417018255957)}], table:None, img:None10===============layout_type:text, box:[1289, 1151, 1469, 1301], detections:[{'id': 0, 'text': 'DNV 는 우리은행 \n프로젝트가 UN \n지속가능개발목표 \n달성에 공헌한다는\n의견임. ', 'confidence': '', 'box': [1289, 1151, 1469, 1301], 'bbox_converted': (463.9464869654885, 414.30094071380495, 528.7334285122596, 468.29324402142504)}], table:None, img:None10===============layout_type:footer, box:[1374, 2237, 1486, 2257], detections:[{'id': 0, 'text': '10 | P a g e', 'confidence': '', 'box': [1374, 2237, 1486, 2257], 'bbox_converted': (494.54032047368594, 805.2052166609745, 534.8521952138991, 812.4041904353239)}], table:None, img:None1===============layout_type:unknown, box:[197, 0, 934, 56], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [197, 0, 934, 56], 'bbox_converted': (64.09325009300596, 0.0, 303.8735816592262, 18.69680128788096)}], table:None, img:None1===============layout_type:title, box:[588, 552, 1006, 619], detections:[{'id': 0, 'text': '금융안정 상황', 'confidence': '', 'box': [588, 552, 1006, 619], 'bbox_converted': (191.3037109375, 184.29704126625515, 327.29852585565476, 206.66642852139844)}], table:None, img:None2===============layout_type:unknown, box:[197, 1, 934, 55], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [197, 1, 934, 55], 'bbox_converted': (64.09325009300596, 0.3338714515693028, 303.8735816592262, 18.362929836311654)}], table:None, img:None2===============layout_type:figure, box:[0, 112, 1630, 2170], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [0, 112, 1630, 2170], 'bbox_converted': (0.0, 37.39360257576192, 530.314708891369, 724.501049905387)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]3===============layout_type:title, box:[280, 236, 464, 275], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [280, 236, 464, 275], 'bbox_converted': (91.09700520833334, 78.79366257035547, 150.96075148809524, 91.81464918155828)}], table:None, img:None3===============layout_type:text, box:[286, 337, 762, 813], detections:[{'id': 0, 'text': '가계의 채무상환부담은 소폭 늘어났다. 가\n출 연체율은 오르고 있으나 상승폭은 둔\n는 모습이다.\n신용의 경우 증가세를 지속하였으나, 비은\n융기관 기업대출을 중심으로 증가율이 크\n낮아졌다. 기업의 재무건전성은 부채비율이 \n하고 수익성 및 이자지급능력이 약화되는 \n저하되었다.\n신용/명목GDP 비율2)은 기업신용 증가세가 \n지면서 높은 수준을 지속하였다(그림 Ⅰ-1).', 'confidence': '', 'box': [286, 337, 762, 813], 'bbox_converted': (93.04908389136905, 112.51467917885505, 247.91399274553572, 271.43749012584317)}], table:None, img:None3===============layout_type:reference, box:[268, 887, 603, 911], detections:[{'id': 0, 'text': 'Ⅰ-1. 신용시장 상황 변화 지도 ', 'confidence': '', 'box': [268, 887, 603, 911], 'bbox_converted': (87.19284784226191, 296.1439775419716, 196.1839076450893, 304.1568923796349)}], table:None, img:None3===============layout_type:figure, box:[259, 927, 791, 1334], detections:[{'id': 0, 'text': '금번대상기간\n직전대상기간\n장기평균\nㅅ\n가계\n기업\n개선\n악화\n악화\n2)\n3)\n5)\n가계신용\n증가율\n가계신용\n레버리지\n금융자산대비\n금융부채\n기업신용\n증가율\n부채비율\n자지급능력\n4)\n4)', 'confidence': '', 'box': [259, 927, 791, 1334], 'bbox_converted': (84.26472981770834, 309.4988356047437, 257.3490397135417, 445.3845163934499)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]3===============layout_type:figure_caption, box:[264, 1349, 777, 1508], detections:[{'id': 0, 'text': '각 지표별 장기 평균(5년)을 기준으로 표준화하여 금번 \n대상기간과 직전 대상기간 지표의 상대적 수준을 지도에 도시  \n2023년 3/4분기말(부채비율과 이자지급능력은 23년 상반기말(중))\n2023년 1/4분기말(부채비율과 이자지급능력은 22년말(중))\n명목GDP 대비 가계 및 기업 신용 비율의 증가율\n명목GDP 대비 가계신용 비율', 'confidence': '', 'box': [264, 1349, 777, 1508], 'bbox_converted': (85.89146205357143, 450.39258816698947, 252.79418945312503, 503.4781489665086)}], table:None, img:None3===============layout_type:title, box:[852, 237, 1028, 274], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [852, 237, 1028, 274], 'bbox_converted': (277.19517299107144, 79.12753402192476, 334.4561476934524, 91.48077772998897)}], table:None, img:None3===============layout_type:title, box:[849, 361, 1009, 388], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [849, 361, 1009, 388], 'bbox_converted': (276.2191336495536, 120.52759401651832, 328.27456519717265, 129.54212320888948)}], table:None, img:None3===============layout_type:text, box:[848, 461, 1367, 841], detections:[{'id': 0, 'text': '기말1,875.6조원수준이다. 항목별로는가\n출이1,759.1조원(가계부채중93.8%)이며, \n나서비스판매자가제공하는외상거래인\n신용은116.6조원(6.2%)이다. 증가율로보면\n년동기대비기준으로0.2% 늘어나증가전\n였다. 전기대비로도0.8% 늘어전분기(+0.4\n비해증가폭이확대4)되었다5)(그림Ⅰ-2).', 'confidence': '', 'box': [848, 461, 1367, 841], 'bbox_converted': (275.89378720238096, 153.9147391734486, 444.74859328497024, 280.7858907697837)}], table:None, img:None3===============layout_type:figure, box:[828, 928, 1385, 1473], detections:[{'id': 0, 'text': '그림 Ⅰ-2. 가계신용1)\n1,875.6 \n0\n0\n0\n400\n800\n1,200\n1,600\n2,000\n2,400\n19.1/4\n20.1/4\n21.1/4\n22.1/4\n23.1/4\n잔액(좌축)\n전년동기대비증가율(우축)\n전기대비증가율(우축)\n(조원)\n(%)\n3/4\n주: 1) 가계신용통계 기준 ', 'confidence': '', 'box': [828, 928, 1385, 1473], 'bbox_converted': (269.3868582589286, 309.832707056313, 450.6048293340774, 491.79264816158303)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]3===============layout_type:figure, box:[259, 1584, 1373, 1943], detections:[{'id': 0, 'text': '가계신용과 가계부채는 모두 가계가 보유한 채무를 의미하나 일반적으로 금융기관 측면에서 볼 때는 가계신용으로 가계 측\n서는 가계부채로 사용되고 있다. 본고에서는 민간신용 하위 항목으로서 가계신용 및 기업신용이라고 분류하였다.\n민간 부문의 레버리지 수준 평가 시 민간신용 부문별 증가율, 가계 및 기업의 채무상환부담, 주택가격 수준, 은행 레버리\n다양한 금융·실물지표가 활용되고 있다. 본고에서는 국제결제은행(BIS) 산하 바젤은행감독위원회(이하‘BCBS’\n, 2010)가 권\n글로벌 공통 참고지표(common reference guide)인 민간신용/명목GDP 비율을 중심으로 기술하였다.\n가계신용통계는 자금순환통계상 가계 및 비영리단체의 금융부채와 포괄범위에 차이가 있음에 유의할 필요가 있다. 가계신용의\n는 일반가계를 의미하나 자금순환통계는 소규모 개인사업자 및 가계에 봉사하는 민간비영리단체를 포괄한다.\n다만 월별로 보면 가계대출(전금융권, 금융위원회 보도자료 기준)이 2023년 4월부터 증가로 전환한 이후 8월까지 증가세가\n3년 4월 +0.1조원 → 5월 +2.6조원 → 6월 +3.2조원 → 7월 +5.2조원 → 8월 +6.1조원)되었으나, 9월 이후로는 정부의 가계\n관리 강화(50년 만기 주담대 취급 제한, DSR 산정만기 40년 제한, 일반형 특례보금자리론 중단) 등으로 증가규모가 축소\n~11월 월평균 +3.7조원)되는 흐름을 보이고 있다.', 'confidence': '', 'box': [259, 1584, 1373, 1943], 'bbox_converted': (84.26472981770834, 528.8523792857757, 446.70067196800596, 648.7122303991554)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]3===============layout_type:reference, box:[262, 1588, 1371, 1945], detections:[{'id': 0, 'text': '계신용과 가계부채는 모두 가계가 보유한 채무를 의미하나 일반적으로 금융기관 측면에서 볼 때는 가계신용으로 가계 측\n는 가계부채로 사용되고 있다. 본고에서는 민간신용 하위 항목으로서 가계신용 및 기업신용이라고 분류하였다.\n간 부문의 레버리지 수준 평가 시 민간신용 부문별 증가율, 가계 및 기업의 채무상환부담, 주택가격 수준, 은행 레버리\n양한 금융·실물지표가 활용되고 있다. 본고에서는 국제결제은행(BIS) 산하 바젤은행감독위원회(이하‘BCBS’\n, 2010)가 권\n로벌 공통 참고지표(common reference guide)인 민간신용/명목GDP 비율을 중심으로 기술하였다.\n계신용통계는 자금순환통계상 가계 및 비영리단체의 금융부채와 포괄범위에 차이가 있음에 유의할 필요가 있다. 가계신용의\n 일반가계를 의미하나 자금순환통계는 소규모 개인사업자 및 가계에 봉사하는 민간비영리단체를 포괄한다.\n만 월별로 보면 가계대출(전금융권, 금융위원회 보도자료 기준)이 2023년 4월부터 증가로 전환한 이후 8월까지 증가세가\n3년 4월 +0.1조원 → 5월 +2.6조원 → 6월 +3.2조원 → 7월 +5.2조원 → 8월 +6.1조원)되었으나, 9월 이후로는 정부의 가계\n관리 강화(50년 만기 주담대 취급 제한, DSR 산정만기 40년 제한, 일반형 특례보금자리론 중단) 등으로 증가규모가 축소\n11월 월평균 +3.7조원)되는 흐름을 보이고 있다.', 'confidence': '', 'box': [262, 1588, 1371, 1945], 'bbox_converted': (85.24076915922619, 530.1878650920529, 446.0499790736607, 649.3799733022939)}], table:None, img:None3===============layout_type:text, box:[262, 1589, 1369, 1948], detections:[{'id': 0, 'text': '계신용과 가계부채는 모두 가계가 보유한 채무를 의미하나 일반적으로 금융기관 측면에서 볼 때는 가계신용으로 가계 측\n는 가계부채로 사용되고 있다. 본고에서는 민간신용 하위 항목으로서 가계신용 및 기업신용이라고 분류하였다.\n간 부문의 레버리지 수준 평가 시 민간신용 부문별 증가율, 가계 및 기업의 채무상환부담, 주택가격 수준, 은행 레버리\n양한 금융·실물지표가 활용되고 있다. 본고에서는 국제결제은행(BIS) 산하 바젤은행감독위원회(이하‘BCBS’\n, 2010)가 권\n로벌 공통 참고지표(common reference guide)인 민간신용/명목GDP 비율을 중심으로 기술하였다.\n계신용통계는 자금순환통계상 가계 및 비영리단체의 금융부채와 포괄범위에 차이가 있음에 유의할 필요가 있다. 가계신용의\n 일반가계를 의미하나 자금순환통계는 소규모 개인사업자 및 가계에 봉사하는 민간비영리단체를 포괄한다.\n만 월별로 보면 가계대출(전금융권, 금융위원회 보도자료 기준)이 2023년 4월부터 증가로 전환한 이후 8월까지 증가세가\n3년 4월 +0.1조원 → 5월 +2.6조원 → 6월 +3.2조원 → 7월 +5.2조원 → 8월 +6.1조원)되었으나, 9월 이후로는 정부의 가계\n관리 강화(50년 만기 주담대 취급 제한, DSR 산정만기 40년 제한, 일반형 특례보금자리론 중단) 등으로 증가규모가 축소\n11월 월평균 +3.7조원)되는 흐름을 보이고 있다.', 'confidence': '', 'box': [262, 1589, 1369, 1948], 'bbox_converted': (85.24076915922619, 530.5217365436222, 445.3992861793155, 650.3815876570019)}], table:None, img:None4===============layout_type:text, box:[267, 233, 789, 814], detections:[{'id': 0, 'text': '었고기타대출은감소폭이소폭축소되었\n주택담보대출은2023년3/4분기말1,049.1조\n로전년동기대비4.0% 증가하였는데, 이는\n구입6) 관련자금수요가지속된가운데정\n금공급7)이늘어난것도영향을미친것으\n보인다. 기타대출은710.0조원으로전년동기\n5.1% 감소하였다. 한편전기대비대출증감\n로보면주택담보대출은2023년2/4분기이\n증가폭이크게확대되어3/4분기중17.3조원\n하였고, 기타대출은5.5조원감소하였다(그\n-3).', 'confidence': '', 'box': [267, 233, 789, 814], 'bbox_converted': (86.86750139508929, 77.79204821564755, 256.69834681919644, 271.7713615774125)}], table:None, img:None4===============layout_type:table_caption, box:[268, 994, 611, 1017], detections:[{'id': 0, 'text': 'Ⅰ-3. 대출유형별 가계대출1) 변동', 'confidence': '', 'box': [268, 994, 611, 1017], 'bbox_converted': (87.19284784226191, 331.868222859887, 198.78667922247024, 339.54726624598095)}], table:None, img:None4===============layout_type:figure, box:[245, 1029, 797, 1516], detections:[{'id': 0, 'text': '전년동기대비 증가율\n전기대비 증감\n-5.5\n17.3\n11.7 \n-40\n-20\n0\n20\n40\n60\n-40\n-20\n0\n20\n40\n60\n주택담보대출\n기타대출\n총대출\n(조원)              (조원)\n4.0\n-5.1\n-10\n-5\n0\n5\n10\n15\n주택담보대출\n기타대출\n(%)                    (%)\n2)\n2)\n3)\n3)', 'confidence': '', 'box': [245, 1029, 797, 1516], 'bbox_converted': (79.70987955729167, 343.5537236648126, 259.3011183965774, 506.14912057906304)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]4===============layout_type:figure_caption, box:[265, 1531, 601, 1621], detections:[{'id': 0, 'text': '.1/4\n21.1/4\n23.1/4 3/4\n19.1/4\n가계신용통계 기준\n주택담보대출, 전세자금대출 등\n비주택담보대출, 신용대출, 보증대출 등', 'confidence': '', 'box': [265, 1531, 601, 1621], 'bbox_converted': (86.21680850074405, 511.1571923526026, 195.53321475074407, 541.2056229938398)}], table:None, img:None4===============layout_type:text, box:[849, 235, 1367, 715], detections:[{'id': 0, 'text': '상반된모습을보였다. 2023년3/4분기말\n가계대출(904.5조원)은전년동기대비0.2% \n나면서증가전환한반면, 비은행금융기관\n대출(627.3조원)은전년동기대비3.8% 줄어\n서감소폭이확대되었다.8) 전기대비대출증\n변화를보더라도은행은2023년2/4분기\n증가전환하여3/4분기중10.0조원늘어났\n비은행금융기관은5.0조원줄어들어감소\n지속되었다(그림Ⅰ-4).', 'confidence': '', 'box': [849, 235, 1367, 715], 'bbox_converted': (276.2191336495536, 78.45979111878616, 444.74859328497024, 238.7180878720515)}], table:None, img:None4===============layout_type:figure_caption, box:[849, 987, 1191, 1012], detections:[{'id': 0, 'text': '그림 Ⅰ-4. 금융업권별 가계대출1) ', 'confidence': '', 'box': [849, 987, 1191, 1012], 'bbox_converted': (276.2191336495536, 329.53112269890187, 387.48761858258933, 337.87790898813444)}], table:None, img:None4===============layout_type:table_caption, box:[895, 988, 1194, 1012], detections:[{'id': 0, 'text': '림 Ⅰ-4. 금융업권별 가계대출1) 변', 'confidence': '', 'box': [895, 988, 1194, 1012], 'bbox_converted': (291.1850702194941, 329.8649941504712, 388.46365792410717, 337.87790898813444)}], table:None, img:None4===============layout_type:figure, box:[834, 1024, 1390, 1519], detections:[{'id': 0, 'text': '전년동기대비 증가율\n전기대비 증감\n-5.\n10.\n5.1\n-\n-\n0\n2\n4\n6\n-40\n-20\n0\n20\n40\n60\n은행\n비은행금융기관\n총대출\n(조원)                (조원)\n0.2 \n-3.8\n-5\n0\n5\n10\n15\n-5\n0\n5\n10\n15\n은행\n비은행금융기관\n(%)                      (%)\n2)\n2)', 'confidence': '', 'box': [834, 1024, 1390, 1519], 'bbox_converted': (271.3389369419643, 341.8843664069661, 452.2315615699405, 507.150734933771)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]4===============layout_type:figure_caption, box:[851, 1530, 1335, 1596], detections:[{'id': 0, 'text': '19.1/4\n21.1/4\n19.1/4\n21.1/4\n23.1/4 3/4\n23.\n주: 1) 가계신용통계 기준\n   2) 비은행예금취급기관 및 기타금융기관(주택금융공사 등', 'confidence': '', 'box': [851, 1530, 1335, 1596], 'bbox_converted': (276.86982654389885, 510.8233209010333, 434.33750697544644, 532.8588367046073)}], table:None, img:None4===============layout_type:reference, box:[263, 1783, 1369, 1942], detections:[{'id': 0, 'text': '국 주택 매매거래량(계약일 기준, 만호) : 2022년 7~9월 10.8 → 10~12월 9.1 → 2023년 1~3월 11.9 → 4~6월 15.5 → 7~9월\n계신용통계 기준 주택금융공사(특례보금자리론 등) 및 주택도시기금(디딤돌대출, 버팀목전세자금 등)의 주택담보대출은 2\n4분기말 227.2조원으로 2022년말 대비 26.1조원 증가하였다. 이는 2021년 및 2022년 연간 증가규모(각각 14.8조원, 6.6조\n 폭 상회하는 수준이다.', 'confidence': '', 'box': [263, 1783, 1369, 1942], 'bbox_converted': (85.56611560639881, 595.2927981480669, 445.3992861793155, 648.3783589475861)}], table:None, img:None5===============layout_type:unknown, box:[198, 2, 933, 55], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [198, 2, 933, 55], 'bbox_converted': (64.41859654017857, 0.6677429031386056, 303.5482352120536, 18.362929836311654)}], table:None, img:None5===============layout_type:text, box:[266, 236, 785, 315], detections:[{'id': 0, 'text': ' 대비로는 소폭 증가9)', 'confidence': '', 'box': [266, 236, 785, 315], 'bbox_converted': (86.54215494791667, 78.79366257035547, 255.39696103050596, 105.16950724433039)}], table:None, img:None5===============layout_type:text, box:[267, 390, 787, 820], detections:[{'id': 0, 'text': '중비슷한수준을이어갔다. 처분가능소득\n가계부채비율(가계신용통계기준)은2023\n3/4분기160.2%(추정치)로2023년1/4분기\n6%)에비해0.4%포인트하락하였다. 구성\n을보면, 분모인처분가능소득은증가하고\n나분자인가계부채가금년2/4~3/4분기중\n되면서소득측면의채무상환능력은개선세\n다소주춤해진모습을보였다(그림Ⅰ-5).', 'confidence': '', 'box': [267, 390, 787, 820], 'bbox_converted': (86.86750139508929, 130.2098661120281, 256.0476539248512, 273.7745902868283)}], table:None, img:None5===============layout_type:text, box:[849, 236, 1369, 663], detections:[{'id': 0, 'text': '어난것으로나타났다. 가계의금융자산대비\n융부채비율(자금순환통계기준)은2023년3\n기말46.0%(추정치)로2023년1/4분기말(45\n대비0.7%포인트상승하였다. 이는분모인\n자산이현금및예금등을중심으로꾸준히\n어났음에도10) 분자인금융부채가금년2/4\n이후상대적으로더빠르게확대된데기인\n(그림Ⅰ-6).', 'confidence': '', 'box': [849, 236, 1369, 663], 'bbox_converted': (276.2191336495536, 78.79366257035547, 445.3992861793155, 221.35677239044776)}], table:None, img:None5===============layout_type:figure, box:[234, 995, 1395, 1493], detections:[{'id': 0, 'text': '림 Ⅰ-5. 처분가능소득1) 대비 가계부채2) 비율\n160.2\n0.2\n3.8\n-4\n0\n4\n8\n12\n0\n0\n0\n0\n0\n비율(좌축)\n가계부채증가율(우축)\n처분가능소득증가율(우축)\n(%)                                                                  (%)\n3)\ne\n3)\n그림 Ⅰ-6. 금융자산 대비 금융부채 비율1)\n46.0\n3.9\n1.2\n-\n0\n1\n2\n35\n40\n45\n50\n19.1/4\n20.1/4\n21.1/4\n22.1/4\n23.1/4\n비율(좌축)\n자산증가율(우축)\n부채증가율(우축)\n(%)\n(%)\n2)\n2)\ne\n3/4', 'confidence': '', 'box': [234, 995, 1395, 1493], 'bbox_converted': (76.13106863839286, 332.2020943114563, 453.8582938058036, 498.4700771929691)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]5===============layout_type:figure, box:[244, 1005, 795, 1497], detections:[{'id': 0, 'text': '림 Ⅰ-5. 처분가능소득1) 대비 가계부채2) 비율\n160.2\n0.2\n3.8\n-4\n0\n4\n8\n12\n19.1/4\n20.1/4\n21.1/4\n22.1/4\n23.1/4\n비율(좌축)\n가계부채증가율(우축)\n처분가능소득증가율(우축)\n(%)                                                                  (%)\n3)\ne\n3/4\n3)', 'confidence': '', 'box': [244, 1005, 795, 1497], 'bbox_converted': (79.38453311011905, 335.5408088271493, 258.65042550223217, 499.8055629992463)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]5===============layout_type:figure_caption, box:[262, 1509, 773, 1623], detections:[{'id': 0, 'text': '9.1/4\n20.1/4\n21.1/4\n22.1/4\n23.1/4\n3/4\n 2023년 3/4분기 처분가능소득은 직전 3개년의 연간 국민총소득 \n대비 가계 처분가능소득 비율 평균치를 이용하여 추정\n 가계신용통계 기준\n 전년동기대비', 'confidence': '', 'box': [262, 1509, 773, 1623], 'bbox_converted': (85.24076915922619, 503.81202041807796, 251.49280366443455, 541.8733658969785)}], table:None, img:None5===============layout_type:figure, box:[838, 1015, 1388, 1491], detections:[{'id': 0, 'text': '그림 Ⅰ-6. 금융자산 대비 금융부채 비율1)\n46.0\n3.\n1.\n35\n40\n45\n50\n비율(좌축)\n자산증가율(우축)\n부채증가율(우축)\n(%)\n(%)\n2)\n2)\n3/4', 'confidence': '', 'box': [838, 1015, 1388, 1491], 'bbox_converted': (272.64032273065476, 338.87952334284233, 451.58086867559524, 497.80233428983047)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]5===============layout_type:figure_caption, box:[846, 1504, 1216, 1570], detections:[{'id': 0, 'text': '19.1/4\n20.1/4\n21.1/4\n22.1\n주: 1) 자금순환통계 기준(2023년 3/4분기는 추\n  2) 전년동기대비', 'confidence': '', 'box': [846, 1504, 1216, 1570], 'bbox_converted': (275.2430943080357, 502.14266316023145, 395.6212797619048, 524.1781789638054)}], table:None, img:None5===============layout_type:text, box:[266, 1839, 1370, 1944], detections:[{'id': 0, 'text': '분가능소득 대비 가계부채 비율과 금융자산 대비 금융부채 비율은 부채 보유 여부와 관계없이 전체 가계의 부채 및 소득\n간 비율로, 일반적으로 부채 보유 가구 또는 차주의 채무상환부담을 나타내는 총부채원리금상환비율(DSR, Debt Service ', 'confidence': '', 'box': [266, 1839, 1370, 1944], 'bbox_converted': (86.54215494791667, 613.9895994359479, 445.72463262648813, 649.0461018507247)}], table:None, img:None5===============layout_type:reference, box:[266, 1839, 1333, 1944], detections:[{'id': 0, 'text': '분가능소득 대비 가계부채 비율과 금융자산 대비 금융부채 비율은 부채 보유 여부와 관계없이 전체 가계의 부채 및\n간 비율로, 일반적으로 부채 보유 가구 또는 차주의 채무상환부담을 나타내는 총부채원리금상환비율(DSR, Debt Ser', 'confidence': '', 'box': [266, 1839, 1333, 1944], 'bbox_converted': (86.54215494791667, 613.9895994359479, 433.6868140811012, 649.0461018507247)}], table:None, img:None6===============layout_type:title, box:[268, 237, 547, 265], detections:[{'id': 0, 'text': '가계부채보유차주중', 'confidence': '', 'box': [268, 237, 547, 265], 'bbox_converted': (87.19284784226191, 79.12753402192476, 177.96450660342262, 88.47593466586524)}], table:None, img:None6===============layout_type:text, box:[266, 318, 788, 800], detections:[{'id': 0, 'text': '상대적으로부족한차주의비중은소폭상승\n다. 다중채무자이면서저소득(하위30%) 또\n저신용(신용점수664점이하)11)인취약차주\n전체차주에서차지하는비중은2023년\n분기말6.5%로, 2023년1/4분기말(6.3%) 대\n0.2%포인트상승하였다. 취약차주가보유한\n이전체대출에서차지하는비중또한2023\n3/4분기말5.2%로2023년1/4분기말(5.1%)\n0.1%포인트상승하였다(그림Ⅰ-7).', 'confidence': '', 'box': [266, 318, 788, 800], 'bbox_converted': (86.54215494791667, 106.1711215990383, 256.37300037202385, 267.09716125544224)}], table:None, img:None6===============layout_type:text, box:[848, 235, 1367, 612], detections:[{'id': 0, 'text': '고신용및고소득차주의대출비중이전반\n로소폭하락하였으나여전히높은수준을\n냈다. 고신용차주의대출비중은2023년3\n기말\n77.3%로\n2023년\n1/4분기말(77.7%)\n0.4%포인트하락하였다. 고소득차주의대출\n중은62.1%로2023년1/4분기말(63.2%)\n1.1%포인트하락한것으로나타났다(그림Ⅰ', 'confidence': '', 'box': [848, 235, 1367, 612], 'bbox_converted': (275.89378720238096, 78.45979111878616, 444.74859328497024, 204.3293283604133)}], table:None, img:None6===============layout_type:figure, box:[233, 994, 1395, 1549], detections:[{'id': 0, 'text': '림 Ⅰ-7. 취약차주 비중\n6.5\n5.2\n4\n5\n6\n7\n8\n9\n4\n5\n6\n7\n8\n9\n19\n20\n21\n22\n23.1/4\n2/4\n3/4\n차주수기준\n대출금액기준\n(%)\n(%)\n료: 한국은행 시산(가계부채DB)\n그림 Ⅰ-8. 신용도 및 소득수준별 가계대출 구성비1)\n신용도별2)\n소득수준별3)\n3.8\n18.9\n77.3 \n0\n20\n40\n60\n80\n100\n0\n20\n40\n60\n80\n100\n19\n21\n23.1/4\n3/4\n저신용\n중신용\n고신용\n(%)                        (%)\n11\n26\n62\n0\n2\n4\n6\n8\n1\n0\n20\n40\n60\n80\n100\n19\n21\n23.1/4 3/4\n저소득\n중소득\n고소득\n(%)                         (%)', 'confidence': '', 'box': [233, 994, 1395, 1549], 'bbox_converted': (75.80572219122024, 331.868222859887, 453.8582938058036, 517.1668784808501)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]6===============layout_type:figure, box:[239, 995, 799, 1529], detections:[{'id': 0, 'text': '림 Ⅰ-7. 취약차주 비중\n6.5\n5.2\n4\n5\n6\n7\n8\n9\n19\n20\n21\n22\n23.1/4\n2/4\n3/4\n차주수기준\n대출금액기준\n(%)\n(%)', 'confidence': '', 'box': [239, 995, 799, 1529], 'bbox_converted': (77.75780087425596, 332.2020943114563, 259.95181129092265, 510.489449449464)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]6===============layout_type:figure, box:[832, 998, 1385, 1545], detections:[{'id': 0, 'text': '그림 Ⅰ-8. 신용도 및 소득수준별 가계대출 구성비1)\n신용도별2)\n소득수준별3)\n3.8\n18.9\n77.3 \n0\n20\n40\n60\n80\n100\n0\n20\n40\n60\n80\n100\n19\n21\n23.1/4\n3/4\n저신용\n중신용\n고신용\n(%)                        (%)\n1\n2\n6\n0\n20\n40\n60\n80\n100\n19\n21\n23.1/4 3/4\n저소득\n중소득\n고소\n(%)                         (%)', 'confidence': '', 'box': [832, 998, 1385, 1545], 'bbox_converted': (270.68824404761904, 333.20370866616423, 450.6048293340774, 515.8313926745728)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]6===============layout_type:reference, box:[851, 1610, 1087, 1628], detections:[{'id': 0, 'text': '  2) 고신\n용\n 신\n용\n점수\n 840점 ', 'confidence': '', 'box': [851, 1610, 1087, 1628], 'bbox_converted': (276.86982654389885, 537.5330370265775, 353.6515880766369, 543.542723154825)}], table:None, img:None6===============layout_type:reference, box:[270, 1839, 1369, 1943], detections:[{'id': 0, 'text': '021년부터 개인의 신용평가제도가 신용등급제에서 신용점수제로 전환됨에 따라 고신용을 신용점수 840점 이상(NICE신용\n신용점수 기준, 이하 동일), 중신용을 신용점수 665점 이상 839점 이하, 저신용을 신용점수 664점 이하로 각각 설정하였', 'confidence': '', 'box': [270, 1839, 1369, 1943], 'bbox_converted': (87.84354073660715, 613.9895994359479, 445.3992861793155, 648.7122303991554)}], table:None, img:None7===============layout_type:unknown, box:[199, 1, 930, 55], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [199, 1, 930, 55], 'bbox_converted': (64.74394298735119, 0.3338714515693028, 302.5721958705357, 18.362929836311654)}], table:None, img:None7===============layout_type:title, box:[266, 236, 510, 264], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [266, 236, 510, 264], 'bbox_converted': (86.54215494791667, 78.79366257035547, 165.92668805803572, 88.14206321429594)}], table:None, img:None7===============layout_type:text, box:[267, 326, 789, 1105], detections:[{'id': 0, 'text': '지속하고있으나, 최근들어상승세는점차\n되고있는모습이다. 2023년3/4분기말가\n출\n연체율은\n0.89%로\n1/4분기말\n대비\n%포인트상승하였다. 대출유형별로보면주\n보대출연체율은0.36%, 기타대출연체율은\n%로각각0.05%포인트, 0.10%포인트상승하\n. 업권별로는은행이0.35%, 비은행금융기관\n.91%로각각0.04%포인트, 0.15%포인트상\n였다.12) 이러한연체율상승은높아진금리\n등으로채무상환부담정도가상대적으로\n늘어난취약부문을중심으로나타나고있\n다만이러한연체율상승에도불구하고은\n비은행가계대출연체율모두코로나19 이\n장기평균13)에비해서여전히낮은수준을보\n있다(그림Ⅰ-9).', 'confidence': '', 'box': [267, 326, 789, 1105], 'bbox_converted': (86.86750139508929, 108.84209321159271, 256.69834681919644, 368.92795398407964)}], table:None, img:None7===============layout_type:figure, box:[241, 1212, 822, 1786], detections:[{'id': 0, 'text': '0.89\n0.36\n1.65\n0.35\n0.24\n0.66\n1.91\n0.90\n2.39\n0\n1\n2\n3\n9\n21\n23\n19\n21\n23\n19\n21\n23\n전체\n주택담보대출\n기타대출\n(%)                                                                       (%)\n전금융권\n은행\n비은행금융기관\n1) 저축은행, 상호금융, 보험회사, 여신전문금융회사 등\n2) 보험회사의 경우 보험약관대출 제외\n3) 1개월 이상 원리금 연체 기준(상호금융 및 저축은행은 1일 이상 ', 'confidence': '', 'box': [241, 1212, 822, 1786], 'bbox_converted': (78.40849376860119, 404.652199301995, 267.4347795758929, 596.2944125027748)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]7===============layout_type:figure_caption, box:[265, 1701, 774, 1785], detections:[{'id': 0, 'text': '저축은행, 상호금융, 보험회사, 여신전문금융회사 등\n보험회사의 경우 보험약관대출 제외\n1개월 이상 원리금 연체 기준(상호금융 및 저축은행은 1일 이상 ', 'confidence': '', 'box': [265, 1701, 774, 1785], 'bbox_converted': (86.21680850074405, 567.915339119384, 251.81815011160717, 595.9605410512055)}], table:None, img:None7===============layout_type:text, box:[268, 1866, 1368, 1943], detections:[{'id': 0, 'text': '참고로 직전 반기 기준 상승폭(22년 3/4분기말 대비 23년 1/4분기말)은 전체 0.23%포인트, 은행 0.12%포인트, 비은행금융', 'confidence': '', 'box': [268, 1866, 1368, 1943], 'bbox_converted': (87.19284784226191, 623.004128628319, 445.0739397321429, 648.7122303991554)}], table:None, img:None8===============layout_type:unknown, box:[198, 2, 934, 55], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [198, 2, 934, 55], 'bbox_converted': (64.41859654017857, 0.6677429031386056, 303.8735816592262, 18.362929836311654)}], table:None, img:None8===============layout_type:title, box:[268, 237, 446, 274], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [268, 237, 446, 274], 'bbox_converted': (87.19284784226191, 79.12753402192476, 145.1045154389881, 91.48077772998897)}], table:None, img:None8===============layout_type:title, box:[265, 361, 511, 388], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [265, 361, 511, 388], 'bbox_converted': (86.21680850074405, 120.52759401651832, 166.25203450520834, 129.54212320888948)}], table:None, img:None8===============layout_type:text, box:[265, 454, 787, 1484], detections:[{'id': 0, 'text': '2.7조원으로전년동기대비6.3% 증가하였다.\n대출은차주의채무상환부담증대, 금융기\n대출태도강화등의영향으로비은행금융\n및중소기업대출을중심으로증가세둔화\n지속되는모습이다. 한편, 자영업자대출14)은\n2.6조원으로전년동기대비3.8% 증가하였다.\n업권별로보면비은행금융기관을중심으로\n대출증가세가둔화되는모습이다. 은행기\n출은2023년3/4분기말1,241.0조원(일반은\n26.7조원,\n특수은행\n487.6조원,\n외은지점\n조원)으로\n전년동기대비\n6.7%(일반은행\n%, 특수은행5.4%) 증가하였다. 비은행금융기\n의기업대출은591.7조원16)으로전년동기대\n5.6% 증가하였다. 기업대출연체율상승등\n따른신용리스크관리목적으로대출태도가\n17)되면서모든비은행업권에서기업대출\n율이큰폭둔화되었으며, 특히보험회사와\n은행은기업대출잔액이전년동기대비감\n하였다(그림Ⅰ-10).', 'confidence': '', 'box': [265, 454, 787, 1484], 'bbox_converted': (86.21680850074405, 151.57763901246346, 256.0476539248512, 495.4652341288454)}], table:None, img:None8===============layout_type:table_caption, box:[853, 258, 1137, 282], detections:[{'id': 0, 'text': '대출잔액2)', 'confidence': '', 'box': [853, 258, 1137, 282], 'bbox_converted': (277.5205194382441, 86.13883450488012, 369.9189104352679, 94.1517493425434)}], table:None, img:None8===============layout_type:figure, box:[837, 294, 1383, 945], detections:[{'id': 0, 'text': '726.7 \n487.6 \n26.7 \n591.7 \n1,832.7 \n0\n500\n1,000\n1,500\n2,000\n0\n500\n1,000\n1,500\n2,000\n19.1/4\n21.1/4\n23.1/4\n일반은행\n특수은행\n외은지점\n비은행\n(조원)           (조원)\n6\n5\n0\n10\n20\n30\n19.1/4\n21.1/4\n23.1/4\n전체\n은행\n비은\n(%)                    (%)\n3/4\n3\n주: 1) 은행은 일반은행, 특수은행 및 외은지점, 비은행금융기관은 \n저축은행, 상호금융(새마을금고 포함), 보험회사 및 \n여신전문금융회사 합계 기준\n2) 기말 기준, 금융 및 보험업 제외 기준 \n3) 전년동기대비\n자료: 금융기관 업무보고서', 'confidence': '', 'box': [837, 294, 1383, 945], 'bbox_converted': (272.31497628348217, 98.15820676137503, 449.95413643973217, 315.50852173299114)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]8===============layout_type:text, box:[850, 1012, 1369, 1492], detections:[{'id': 0, 'text': '기업규모별19)로보면개인사업자등중소기\n중심으로기업대출증가세가둔화되었다. \n업대출(275.6조원, 전년동기대비14.4%)은\n채발행금리가높게유지20)됨에따라은행\n을대체자금조달수단으로활용하여비교적\n은증가세를유지하였다. 반면, 중소기업\n(1,552.4조원, 4.8%)은채무상환부담증대, \n산경기부진등의영향으로중소법인(864.4\n5.4%)과개인사업자(688.0조원, 4.1%) 모두\n증가세가크게둔화되었다(그림Ⅰ-11).', 'confidence': '', 'box': [850, 1012, 1369, 1492], 'bbox_converted': (276.5444800967262, 337.87790898813444, 445.3992861793155, 498.1362057413998)}], table:None, img:None8===============layout_type:reference, box:[262, 1587, 1371, 1945], detections:[{'id': 0, 'text': '최근 자영업자대출 동향에 관한 자세한 내용은 <참고 2> ｢최근 자영업자대출 동향 및 연체현황 점검｣을 참조하기 바란다.\n비은행금융기관 기업대출은 저축은행, 상호금융(농협, 수협, 산림조합, 신협 및 새마을금고), 보험회사(생명보험회사 및 손해보\n사) 및 여신전문금융회사 합계 기준이다. 다만 자료 제약으로 인해 일부 업권은 기업대출에 금융보험업을 포함하여 분석하였다\n업권별 기업대출 규모는 상호금융 365.8조원(비은행 기업대출 중 61.8%), 보험회사 99.7조원(16.9%), 여신전문금융회사 73\n12.3%) 저축은행 53.3조원(9.0%)이다.\n금융기관 대출행태서베이 결과 상호저축은행(22년 4/4분기 –57 → 23년 2/4분기 –31 → 4/4분기(전망) –22), 신용카드회사(–44 → \n14), 상호금융(–48 → –24 → –30), 생명보험회사(–22 → –14 → –9) 등 조사대상 비은행금융기관 모두 대출태도 강화 기조를 지\n것으로 전망하였다. 자세한 내용은 ｢금융기관 대출행태서베이 결과｣(한국은행 보도자료, 2023년 10월 30일)를 참고하기 바란다.\n비은행금융기관의 업권별 기업대출 증가율(전년동기대비)은 상호금융 2023년 1/4분기말 22.9% → 3/4분기말 11.2%, 보험\n.3% → –1.8%, 여신전문금융회사  6.7% → 2.9% 저축은행 4.1% → –10.0%이다.\n자료의 제약으로 기업규모별 대출 분석 시 기업규모가 구분되지 않는 여신전문금융회사의 대출 일부는 제외하였다.', 'confidence': '', 'box': [262, 1587, 1371, 1945], 'bbox_converted': (85.24076915922619, 529.8539936404835, 446.0499790736607, 649.3799733022939)}], table:None, img:None9===============layout_type:unknown, box:[198, 2, 934, 55], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [198, 2, 934, 55], 'bbox_converted': (64.41859654017857, 0.6677429031386056, 303.8735816592262, 18.362929836311654)}], table:None, img:None9===============layout_type:figure, box:[247, 294, 795, 726], detections:[{'id': 0, 'text': '275.6 \n14.4 \n-5\n5\n15\n25\n0\n0\n0\n0\n19.1/4\n(조원)\n(%)\n1,552.4 \n4.8 \n-5\n5\n15\n25\n0\n600\n1,200\n1,800\n19.1/4\n(조원)\n(%)\n<중소기업>\n864.4 \n5.4 \n-5\n5\n15\n25\n0\n0\n0\n0\n19.1/4\n21.1/4\n23.1/4\n(조원)\n(%)\n(중소법인)\n688.0 \n4.1 \n-5\n5\n15\n25\n0\n600\n1,200\n1,800\n19.1/4\n21.1/4\n23.1/4\n(조원)\n(%)\n(개인사업자)\n<대기업>\n3/4\n3/4\n1) 은행 및 비은행금융기관 합산 기준(비은행금융기관의 경우 자료 ', 'confidence': '', 'box': [247, 294, 795, 726], 'bbox_converted': (80.36057245163691, 98.15820676137503, 258.65042550223217, 242.39067383931385)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]9===============layout_type:figure, box:[264, 735, 776, 854], detections:[{'id': 0, 'text': '제약으로 일부 업권 및 기간에 금융보험업 대출을 포함)\n기말 기준, 증가율은 전년동기대비 기준\n중소법인은 중소기업 중 개인사업자를 제외한 중소기업을 의미\n금융기관 업무보고서', 'confidence': '', 'box': [264, 735, 776, 854], 'bbox_converted': (85.89146205357143, 245.39551690343757, 252.4688430059524, 285.1262196401846)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]9===============layout_type:figure_caption, box:[264, 736, 777, 850], detections:[{'id': 0, 'text': '제약으로 일부 업권 및 기간에 금융보험업 대출을 포함)\n기말 기준, 증가율은 전년동기대비 기준\n중소법인은 중소기업 중 개인사업자를 제외한 중소기업을 의미\n금융기관 업무보고서', 'confidence': '', 'box': [264, 736, 777, 850], 'bbox_converted': (85.89146205357143, 245.72938835500688, 252.79418945312503, 283.7907338339074)}], table:None, img:None9===============layout_type:text, box:[268, 899, 786, 1179], detections:[{'id': 0, 'text': '별\n21)로는업종전반에서기업대출증가세가\n되었다. 제조업기업대출은자동차, 철강, 기\n비등을중심으로증가세(7.3%)가둔화되었으\n비제조업의경우항공, 해운, 부동산, 도소매,\n등전반적으로대출증가세(7.4%)가둔화되\n(그림Ⅰ-12).', 'confidence': '', 'box': [268, 899, 786, 1179], 'bbox_converted': (87.19284784226191, 300.15043496080324, 255.72230747767858, 393.634441400208)}], table:None, img:None9===============layout_type:figure, box:[248, 1244, 788, 1698], detections:[{'id': 0, 'text': '림 Ⅰ-12. 주요 업종별 금융기관 기업대출1) 증가율2)\n7.3 \n-1.0 \n0.7 \n5.3 \n17.1 17.8 \n20.0 \n-20\n-10\n0\n10\n20\n30\n23년1분기\n7.4 \n-13.3 \n-13.2 \n6.4 \n7.4 \n10.2 \n20.5 \n-20\n-10\n0\n10\n20\n30\n-20\n-10\n0\n10\n20\n30\n23년3분기\n(%)                       (%)\n<제조업>\n<비제조업>\n(%)                      (%)\n조\n선\n전\n기\n석\n유\n기\n계\n철\n자\n동\n제\n조\n정\n보\n건\n도\n소\n부\n동\n해\n항\n비\n제', 'confidence': '', 'box': [248, 1244, 788, 1698], 'bbox_converted': (80.68591889880953, 415.3360857522127, 256.37300037202385, 566.9137247646762)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]9===============layout_type:figure_caption, box:[267, 1715, 770, 1782], detections:[{'id': 0, 'text': '전\n자\n화\n학\n장\n비\n강\n차\n업\n통\n신\n설\n매\n산\n운\n공\n조\n업\n업종별 분류가 가능한 은행 및 일부 비은행금융기관 합산 기준 ', 'confidence': '', 'box': [267, 1715, 770, 1782], 'bbox_converted': (86.86750139508929, 572.5895394413543, 250.51676432291669, 594.9589266964977)}], table:None, img:None9===============layout_type:title, box:[850, 236, 1092, 264], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [850, 236, 1092, 264], 'bbox_converted': (276.5444800967262, 78.79366257035547, 355.2783203125, 88.14206321429594)}], table:None, img:None9===============layout_type:text, box:[848, 339, 1370, 966], detections:[{'id': 0, 'text': '1.72%로1/4분기말(1.49%) 대비0.23%포인트\n승하였다. 금융업권별로살펴보면, 은행의\n대출연체율은0.42%로1/4분기말(0.35%) \n0.07%포인트상승하였다. 이에따라은행의\n업대출연체율은코로나19 이전인2019년말\n준(0.45%)에근접하였다. 비은행기업대출\n율은4.23%로1/4분기말(3.63%) 대비0.60%\n트상승하여은행에비해높은상승세를보\n있다. 다만, 은행과비은행기업대출연체율\n두코로나19 이전장기평균22)에비해서여\n낮은수준이며, 최근들어상승폭이줄어\n모습23)을보이고있다(그림Ⅰ-13).', 'confidence': '', 'box': [848, 339, 1370, 966], 'bbox_converted': (275.89378720238096, 113.18242208199365, 445.72463262648813, 322.51982221594653)}], table:None, img:None9===============layout_type:figure, box:[835, 1035, 1391, 1534], detections:[{'id': 0, 'text': '그림 Ⅰ-13. 은행1) 및 비은행금융기관2) 기업대출 연체율\n1\n0\n4\n0\n2\n4\n6\n8\n전체\n은행\n비은행\n(%)                                                                     (%)', 'confidence': '', 'box': [835, 1035, 1391, 1534], 'bbox_converted': (271.6642833891369, 345.5569523742284, 452.55690801711313, 512.1588067073105)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]9===============layout_type:figure_caption, box:[852, 1558, 1365, 1676], detections:[{'id': 0, 'text': '19.1/4\n20.1/4\n21.1/4\n22.1/4\n23.1/4\n 주: 1) 국내은행 기준 \n    2) 저축은행, 상호금융(새마을금고 포함), 보험회사(보험약관\n제외) 및 여신전문금융회사 합산 기준\n    3) 1개월 이상 원리금 연체 기준(상호금융 및 저축은행은 ', 'confidence': '', 'box': [852, 1558, 1365, 1676], 'bbox_converted': (277.19517299107144, 520.1717215449738, 444.09790039062506, 559.5685528301515)}], table:None, img:None9===============layout_type:reference, box:[267, 1863, 1365, 1943], detections:[{'id': 0, 'text': '일부 비은행금융기관의 기업대출은 업종별 분류가 되지 않아 분석대상에서 제외하였다.', 'confidence': '', 'box': [267, 1863, 1365, 1943], 'bbox_converted': (86.86750139508929, 622.0025142736112, 444.09790039062506, 648.7122303991554)}], table:None, img:None10===============layout_type:unknown, box:[198, 2, 935, 55], detections:[{'id': 0, 'text': '', 'confidence': '', 'box': [198, 2, 935, 55], 'bbox_converted': (64.41859654017857, 0.6677429031386056, 304.19892810639885, 18.362929836311654)}], table:None, img:None10===============layout_type:text, box:[267, 236, 502, 264], detections:[{'id': 0, 'text': '금융시장에서회사채', 'confidence': '', 'box': [267, 236, 502, 264], 'bbox_converted': (86.86750139508929, 78.79366257035547, 163.32391648065476, 88.14206321429594)}], table:None, img:None10===============layout_type:title, box:[268, 236, 501, 264], detections:[{'id': 0, 'text': '금융시장에서회사채', 'confidence': '', 'box': [268, 236, 501, 264], 'bbox_converted': (87.19284784226191, 78.79366257035547, 162.99857003348217, 88.14206321429594)}], table:None, img:None10===============layout_type:text, box:[267, 320, 788, 649], detections:[{'id': 0, 'text': '회사채는금년1/4분기중차환자금선조달\n더불어대기업을중심으로한은행대출등\n자금조달수단활용등의영향으로발행물\n감소하여2023년3/4분기중순상환되었다.\n역시우량물과공기업등을중심으로동기\n순상환되었다(그림Ⅰ-14).', 'confidence': '', 'box': [267, 320, 788, 649], 'bbox_converted': (86.86750139508929, 106.8388645021769, 256.37300037202385, 216.68257206847753)}], table:None, img:None10===============layout_type:title, box:[851, 236, 1311, 265], detections:[{'id': 0, 'text': '기업24)의안정성을나타내는부채비율', 'confidence': '', 'box': [851, 236, 1311, 265], 'bbox_converted': (276.86982654389885, 78.79366257035547, 426.5291922433036, 88.47593466586524)}], table:None, img:None10===============layout_type:text, box:[847, 319, 1371, 596], detections:[{'id': 0, 'text': '기자본)은2023년2/4분기말87.3%로, 2022\n(84.5%)에비해상승하였다. 기업규모별로\n보면대기업(22년말86.3% →23년2/4분\n89.4%)은\n상승한\n반면,\n중소기업(54.8%\n52.2%)은다소하락하였다.25)', 'confidence': '', 'box': [847, 319, 1371, 596], 'bbox_converted': (275.56844075520837, 106.5049930506076, 446.0499790736607, 198.98738513530446)}], table:None, img:None10===============layout_type:text, box:[850, 671, 1369, 948], detections:[{'id': 0, 'text': '채기업)의비중은2023년2/4분기말12.2\n전년말(15.1%)에비해큰폭하락하였다.26) \n규모별로는대기업(22년말13.8% →23년2\n기말11.7%)보다중소기업(16.4% →12.6\n하락폭이더큰것으로나타났다(그림Ⅰ-15', 'confidence': '', 'box': [850, 671, 1369, 948], 'bbox_converted': (276.5444800967262, 224.0277440030022, 445.3992861793155, 316.51013608769904)}], table:None, img:None10===============layout_type:figure, box:[236, 1045, 1394, 1608], detections:[{'id': 0, 'text': '림 Ⅰ-14. 기업의 직접금융시장 조달1) 동향\n회사채\nCP\n-1.7\n-0.8\n-5\n0\n5\n10\n9.1/4\n21.1/4\n23.1/4\nAA등급이상\nA등급이하\n계열3\n(조원)                (조원)   \n-0.7\n0.0 \n-5\n0\n5\n10\n-5\n0\n5\n10\n19.1/4\n21.1/4\n23.1/4\nA1등급\nA2등급이하\n(조원)                (조원)   \n3/4\n3/4\n그림 Ⅰ-15. 기업규모별 부채비율1) \n부채비율\n200% 초과 기업2) 비중\n89.4 \n52.2 \n87.3 \n0\n20\n40\n60\n80\n100\n0\n20\n40\n60\n80\n100\n18 19 20 21 22 23\n대기업\n중소기업\n전체\n(%)                    (%)\n1\n12\n1\n0\n5\n10\n15\n20\n25\n18 19 20 21 22 23\n(%)                    (%)\n.상\n.상', 'confidence': '', 'box': [236, 1045, 1394, 1608], 'bbox_converted': (76.7817615327381, 348.8956668899214, 453.53294735863096, 536.865294123439)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]10===============layout_type:figure, box:[240, 1051, 801, 1591], detections:[{'id': 0, 'text': '림 Ⅰ-14. 기업의 직접금융시장 조달1) 동향\n회사채\nCP\n-1.7\n-0.8\n-5\n0\n5\n10\nAA등급이상\nA등급이하\n계열3\n(조원)                (조원)   \n-0.7\n0.0 \n-5\n0\n5\n10\n-5\n0\n5\n10\nA1등급\nA2등급이하\n(조원)                (조원)   ', 'confidence': '', 'box': [240, 1051, 801, 1591], 'bbox_converted': (78.08314732142858, 350.89889559933727, 260.6025041852679, 531.1894794467607)}], table:None, img:[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]10===============layout_type:figure_caption, box:[267, 1601, 726, 1643], detections:[{'id': 0, 'text': '21.1/4\n23.1/4\n19.1/4\n21.1/4\n23.1/4\n3/4', 'confidence': '', 'box': [267, 1601, 726, 1643], 'bbox_converted': (86.86750139508929, 534.5281939624538, 236.20152064732144, 548.5507949283646)}], table:None, img:None10===============layout_type:reference, box:[260, 1751, 1371, 1945], detections:[{'id': 0, 'text': '이하에서는 ｢자본시장과 금융투자업에 관한 법률｣에 따라 2023년 2/4분기말 사업보고서를 공시한 상장기업 및 일부 비상장\n중 금융보험업을 제외한 총 2,558개 기업(대기업 1,291개, 중소기업 1,267개)을 대상으로 분석하였다. 속보성 있는 분석을\n상장기업을 대상으로 분석함에 따라 중소기업의 재무건전성에 대한 분석 결과가 외감기업 등 더 큰 표본을 활용한 분석\n와 차이가 있음에 유의할 필요가 있다.\n대부분의 업종에서 부채비율이 전년말대비 하락하였으나 전기전자 및 전기가스업 등에서 상승하였으며, 특히 이들 업종 내', 'confidence': '', 'box': [260, 1751, 1371, 1945], 'bbox_converted': (84.59007626488096, 584.6089116978492, 446.0499790736607, 649.3799733022939)}], table:None, img:None10===============layout_type:text, box:[264, 1753, 1370, 1942], detections:[{'id': 0, 'text': '이하에서는 ｢자본시장과 금융투자업에 관한 법률｣에 따라 2023년 2/4분기말 사업보고서를 공시한 상장기업 및 일부 비상장\n중 금융보험업을 제외한 총 2,558개 기업(대기업 1,291개, 중소기업 1,267개)을 대상으로 분석하였다. 속보성 있는 분석을\n상장기업을 대상으로 분석함에 따라 중소기업의 재무건전성에 대한 분석 결과가 외감기업 등 더 큰 표본을 활용한 분석\n와 차이가 있음에 유의할 필요가 있다.\n대부분의 업종에서 부채비율이 전년말대비 하락하였으나 전기전자 및 전기가스업 등에서 상승하였으며, 특히 이들 업종 내', 'confidence': '', 'box': [264, 1753, 1370, 1942], 'bbox_converted': (85.89146205357143, 585.2766546009879, 445.72463262648813, 648.3783589475861)}], table:None, img:None
