@@ -3,6 +3,9 @@
 <center><img width="600" src="./example.gif"></center>
 <center><em style="color:gray;">Create by author</em></center><br>
 
+<center><img width="600" src="https://github.com/user-attachments/assets/df498b27-d4a7-4458-bfd5-d6810486710c"></center>
+<center><em style="color:gray;">Create by author</em></center><br>
+
 ## PDF OCR
 
 dev 기록: https://finddme.github.io/dev%20log/2024/02/02/pdf/
