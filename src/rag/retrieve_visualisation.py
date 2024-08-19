@@ -1,4 +1,4 @@
-from ocr_processing import ocr_processing
+from ocr.ocr_processing import ocr_processing
 from langgraph.graph import END, StateGraph, START
 from typing_extensions import TypedDict
 from typing import List

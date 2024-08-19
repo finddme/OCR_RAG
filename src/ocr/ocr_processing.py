@@ -1,4 +1,4 @@
-from ocr_core import detect_and_log_layouts, PAGE_LIMIT
+from ocr.ocr_core import detect_and_log_layouts, PAGE_LIMIT
 import re
 from PIL import Image, ImageDraw
 import pdfplumber
@@ -9,7 +9,7 @@ import string
 from tqdm import tqdm
 import openai
 from langchain_community.embeddings.openai import OpenAIEmbeddings
-from db_management import (get_embedding_openai,
+from rag.db_management import (get_embedding_openai,
                         load_weaviate_class_list, 
                         save_weaviate, 
                         del_weaviate_class,

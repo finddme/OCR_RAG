@@ -1,5 +1,5 @@
-from ocr_core import detect_and_log_layouts, PAGE_LIMIT
-import re
+from ocr.ocr_core import detect_and_log_layouts, PAGE_LIMIT
+import re, sys
 from PIL import Image, ImageDraw
 import pdfplumber
 from threading import Thread
@@ -7,7 +7,7 @@ import weaviate
 import json,os,random
 import string
 from tqdm import tqdm
-
+class_name_path="/".join(__file__.split("/")[:-1])+"/DB_class_name.txt"
 client = weaviate.Client("http://192.168.0.202:8080") 
 
 import openai
@@ -26,7 +26,7 @@ def get_embedding_openai(text, engine="text-embedding-3-large") :
 
 def load_weaviate_class_list():
     saved_class_list=[]
-    with open("./DB_class_name.txt", 'r') as ff:
+    with open(class_name_path, 'r') as ff:
         class_data=ff.readlines()
         for cd in class_data:
             saved_class_list.append({"class":cd.split("/////")[0],"file":cd.split("/////")[1].replace("\n","")})
@@ -44,7 +44,7 @@ def save_weaviate(ocr_result,pdf_path):
     }
     pdf_temp_name=pdf_path.split("/")[-1].rstrip(".pdf")
     temp_save=f"{class_name}/////{pdf_temp_name}"
-    with open("./DB_class_name.txt", 'a') as ff:
+    with open(class_name_path, 'a') as ff:
         ff.write(f"{temp_save}\n")
     # Add the class to the schema
     client.schema.create_class(class_obj)

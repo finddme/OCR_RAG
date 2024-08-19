@@ -4,9 +4,9 @@ streamlit run streamlit_fastapi.py --server.port 8788
 
 http://192.168.2.186:8788/
 """
+import os, sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import asyncio
-import os
-import sys
 import streamlit as st
 import requests
 import random
@@ -14,9 +14,9 @@ import time
 import glob
 from pprint import pprint
 import json
-from retrieve_visualisation import bbox_visualisation
+from rag.retrieve_visualisation import bbox_visualisation
 import uvicorn
-from db_management import (load_weaviate_class_list, 
+from rag.db_management import (load_weaviate_class_list, 
                         del_weaviate_class
                         )
 async def get_response(query,file_path):
@@ -62,7 +62,7 @@ async def main_process(user_input,sample,uploaded_file):
                     exist_file_list=list(map(lambda x: x.split("/")[-1], exist_file_list))
                     if file_name not in exist_file_list:
                         print("--- Save Input File ---")
-                        file_location = f"./pdf_examples/{file_name}"
+                        # file_location = f"./pdf_examples/{file_name}"
                         os.makedirs(os.path.dirname(file_location), exist_ok=True)
                         file = uploaded_file.read()
                         with open(file_location, "wb") as f:

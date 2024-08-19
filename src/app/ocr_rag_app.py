@@ -1,3 +1,5 @@
+import os, sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from langchain_core.messages import HumanMessage
 from langchain_core.runnables import RunnableConfig
 import asyncio
@@ -9,8 +11,8 @@ from fastapi import FastAPI, File, UploadFile, WebSocket, WebSocketDisconnect, H
 from fastapi.responses import HTMLResponse
 import uvicorn, os
 from fastapi.middleware.cors import CORSMiddleware
-from ocr_rag import rag_graph
-from retrieve_visualisation import page_to_img
+from rag.ocr_rag import rag_graph
+from rag.retrieve_visualisation import page_to_img
 from typing import Dict, Any
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import JSONResponse
