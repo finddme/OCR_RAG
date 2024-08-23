@@ -26,8 +26,6 @@ import camelot
 EXAMPLE_DIR: Final = Path(os.path.dirname(__file__))
 DATASET_DIR: Final = EXAMPLE_DIR / "dataset"
 
-SAMPLE_IMAGE_URLs = ["https://storage.googleapis.com/rerun-example-datasets/ocr/paper.png"]
-
 PAGE_LIMIT = 10
 
 # LayoutStructure = Tuple[

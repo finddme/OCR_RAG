@@ -22,6 +22,7 @@ def pdf_processing(state):
     print("--- PDF processing ---")
     question = state["question"]
     file_name = state["file_name"]
+
     class_name=ocr_processing(file_name,start_page, end_page)
     return {"question": question, "file_name":file_name, "class_name":class_name}
 
@@ -43,6 +44,7 @@ def retrieve(state):
     question = state["question"]
     file_name = state["file_name"]
     weaviate_class = state["class_name"]
+    # print(weaviate_class,"================",weaviate_client.schema.get(weaviate_class))
     property_list = list(map(lambda x: x["name"], weaviate_client.schema.get(weaviate_class)['properties']))
     query_vector = get_embedding(question)
     documents = weaviate_client.query.get(weaviate_class, property_list).with_hybrid(question, vector=query_vector).with_limit(3).do()

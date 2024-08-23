@@ -1,4 +1,4 @@
-from ocr.ocr_core import detect_and_log_layouts, PAGE_LIMIT
+from ocr.core import detect_and_log_layouts, PAGE_LIMIT
 import re, sys
 from PIL import Image, ImageDraw
 import pdfplumber
